@@ -11,7 +11,6 @@ class CrmLead(models.Model):
         comodel_name="res.partner.nace", string="Secondary NACE"
     )
 
-    @api.multi
     def _create_lead_partner_data(self, *args, **kwargs):
         """Propagate NACE activity to created partner."""
         result = super()._create_lead_partner_data(*args, **kwargs)
