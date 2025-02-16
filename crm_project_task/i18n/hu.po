@@ -18,7 +18,7 @@ msgstr ""
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_lead__task_count
 msgid "#Task"
-msgstr "#Tarea"
+msgstr "#Task"
 
 #. module: crm_project_task
 #: model_terms:ir.ui.view,arch_db:crm_project_task.res_config_settings_view_form
@@ -26,13 +26,13 @@ msgid ""
 "By default this project will be selected to create task from lead / "
 "opportunity"
 msgstr ""
-"Por defecto este proyecto será seleccionado para crear la tarea desde la "
-"iniciativa/oportunidad"
+"Alapértelmezés szerint ez a projekt lesz kiválasztva a feladat létrehozására"
+" a leadből / lehetőségből"
 
 #. module: crm_project_task
 #: model_terms:ir.ui.view,arch_db:crm_project_task.wizard_crm_create_task_view_form
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "Cancel"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__changeset_change_ids
@@ -41,7 +41,7 @@ msgstr "Cancelar"
 #: model:ir.model.fields,field_description:crm_project_task.field_res_company__changeset_change_ids
 #: model:ir.model.fields,field_description:crm_project_task.field_res_config_settings__changeset_change_ids
 msgid "Changeset Changes"
-msgstr "Cambios en el conjunto de cambios"
+msgstr "Változáskészlet-változások"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__changeset_ids
@@ -55,12 +55,12 @@ msgstr "Changesets"
 #. module: crm_project_task
 #: model:ir.model,name:crm_project_task.model_res_company
 msgid "Companies"
-msgstr "Compañías"
+msgstr "Vállalatok"
 
 #. module: crm_project_task
 #: model:ir.model,name:crm_project_task.model_res_config_settings
 msgid "Config Settings"
-msgstr "Configuración de la agrupación de los abastecimientos"
+msgstr "Beállítások módosítása"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__count_changesets
@@ -69,7 +69,7 @@ msgstr "Configuración de la agrupación de los abastecimientos"
 #: model:ir.model.fields,field_description:crm_project_task.field_res_company__count_changesets
 #: model:ir.model.fields,field_description:crm_project_task.field_res_config_settings__count_changesets
 msgid "Count Changesets"
-msgstr "Contar los cambios"
+msgstr "Count Changesets"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__count_pending_changeset_changes
@@ -78,7 +78,7 @@ msgstr "Contar los cambios"
 #: model:ir.model.fields,field_description:crm_project_task.field_res_company__count_pending_changeset_changes
 #: model:ir.model.fields,field_description:crm_project_task.field_res_config_settings__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr "Contar cambios pendientes"
+msgstr "Számolja a függőben lévő változtatáskészlet-változásokat"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__count_pending_changesets
@@ -87,76 +87,76 @@ msgstr "Contar cambios pendientes"
 #: model:ir.model.fields,field_description:crm_project_task.field_res_company__count_pending_changesets
 #: model:ir.model.fields,field_description:crm_project_task.field_res_config_settings__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr "Contar conjuntos de cambios pendientes"
+msgstr "Függő módosításkészletek számolása"
 
 #. module: crm_project_task
 #: model:ir.actions.act_window,name:crm_project_task.wizard_crm_create_task_action
 #: model_terms:ir.ui.view,arch_db:crm_project_task.inherit_crm_lead_view_form_crm_project_task
 #: model_terms:ir.ui.view,arch_db:crm_project_task.wizard_crm_create_task_view_form
 msgid "Create Task"
-msgstr "Crear tarea"
+msgstr "Feladat létrehozása"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__create_uid
 msgid "Created by"
-msgstr "Creado por"
+msgstr "Készítette"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__create_date
 msgid "Created on"
-msgstr "Creado el"
+msgstr "Készült a"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_res_company__crm_default_project_id
 #: model:ir.model.fields,field_description:crm_project_task.field_res_config_settings__crm_default_project_id
 msgid "Crm Default Project"
-msgstr "Proyecto por defecto en CRM"
+msgstr "Crm alapértelmezett projekt"
 
 #. module: crm_project_task
 #: model_terms:ir.ui.view,arch_db:crm_project_task.res_config_settings_view_form
 msgid "Default project"
-msgstr "Proyecto por defecto"
+msgstr "Alapértelmezett projekt"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__description
 msgid "Description"
-msgstr "Descripción"
+msgstr "Leírás"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__display_name
 msgid "Display Name"
-msgstr "Nombre mostrado"
+msgstr "Megjelenített név"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__id
 msgid "ID"
-msgstr "Identificación"
+msgstr "ID"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task____last_update
 msgid "Last Modified on"
-msgstr "Última modificación el"
+msgstr "Utolsó módosítás:"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__write_uid
 msgid "Last Updated by"
-msgstr "Última actualización por"
+msgstr "Legutóbb frissítette"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__write_date
 msgid "Last Updated on"
-msgstr "Última actualización el"
+msgstr "Utolsó frissítés:"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_project_task__lead_id
 msgid "Lead"
-msgstr "Iniciativa"
+msgstr "Vezető"
 
 #. module: crm_project_task
 #: model:ir.model,name:crm_project_task.model_crm_lead
 #: model_terms:ir.ui.view,arch_db:crm_project_task.view_task_form2_inherit_crm_project_task
 msgid "Lead/Opportunity"
-msgstr "Iniciativa/Oportundad"
+msgstr "Érdeklődés/Lehetőség"
 
 #. module: crm_project_task
 #. odoo-python
@@ -164,8 +164,8 @@ msgstr "Iniciativa/Oportundad"
 #, python-format
 msgid "Lead/Opportunity not found. Please, create task from lead/opportunity."
 msgstr ""
-"Iniciativa/Oportunidad no encontrada. Por favor, cree la tarea desde una "
-"iniciativa/Oportunidad."
+"Vezető/lehetőség nem található. Kérjük, hozzon létre feladatot a "
+"lead/lehetőségből."
 
 #. module: crm_project_task
 #. odoo-python
@@ -174,13 +174,13 @@ msgstr ""
 msgid ""
 "Project not configured in settings, please contact with your administrator."
 msgstr ""
-"No hay un proyecto configurado en ajustes, por favor contacte con su "
-"administrador."
+"A projekt nincs beállítva a beállításokban, kérjük, forduljon a "
+"rendszergazdához."
 
 #. module: crm_project_task
 #: model_terms:ir.ui.view,arch_db:crm_project_task.res_config_settings_view_form
 msgid "Projects"
-msgstr "Proyectos"
+msgstr "Projektek"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__smart_search
@@ -189,13 +189,13 @@ msgstr "Proyectos"
 #: model:ir.model.fields,field_description:crm_project_task.field_res_company__smart_search
 #: model:ir.model.fields,field_description:crm_project_task.field_res_config_settings__smart_search
 msgid "Smart Search"
-msgstr "Búsqueda inteligente"
+msgstr "Intelligens keresés"
 
 #. module: crm_project_task
 #: model:ir.model,name:crm_project_task.model_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_lead__task_ids
 msgid "Task"
-msgstr "Tarea"
+msgstr "Feladat"
 
 #. module: crm_project_task
 #. odoo-python
@@ -205,13 +205,13 @@ msgid ""
 "Task <a href=# data-oe-model=project.task data-oe-id=%(task)d>%(name)s</a> "
 "created."
 msgstr ""
-"Tarea <a href=# data-oe-model=project.task data-oe-id=%(task)d>%(name)s</a> "
-"creada."
+"A létrehozott feladat <a href=# data-oe-model=project.task data-oe-"
+"id=%(task)d>%(neve)s</a>."
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__task_name
 msgid "Task Name"
-msgstr "Nombre de tarea"
+msgstr "Feladat neve"
 
 #. module: crm_project_task
 #. odoo-python
@@ -221,13 +221,13 @@ msgid ""
 "Task created from lead/opportunity <a href=# data-oe-model=crm.lead data-oe-"
 "id=%(lead)d>%(name)s</a>."
 msgstr ""
-"Tarea creada desde la iniciativa/oportunidad <a href=# data-oe-"
-"model=crm.lead data-oe-id=%(lead)d>%(name)s</a>."
+"A feladatot a lead/lehetőség <a href=# data-oe-model=crm.lead data-oe-"
+"id=%(lead)d>%(név)-</a>ből hozták létre."
 
 #. module: crm_project_task
 #: model_terms:ir.ui.view,arch_db:crm_project_task.inherit_crm_lead_view_form_crm_project_task
 msgid "Task(s)"
-msgstr "Tarea(s)"
+msgstr "Feladat(ok)"
 
 #. module: crm_project_task
 #: model:ir.model.fields,help:crm_project_task.field_crm_create_task__count_pending_changeset_changes
@@ -236,7 +236,7 @@ msgstr "Tarea(s)"
 #: model:ir.model.fields,help:crm_project_task.field_res_company__count_pending_changeset_changes
 #: model:ir.model.fields,help:crm_project_task.field_res_config_settings__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr "El número de cambios pendientes de este registro"
+msgstr "A bejegyzés függőben lévő módosításainak száma"
 
 #. module: crm_project_task
 #: model:ir.model.fields,help:crm_project_task.field_crm_create_task__count_pending_changesets
@@ -245,7 +245,7 @@ msgstr "El número de cambios pendientes de este registro"
 #: model:ir.model.fields,help:crm_project_task.field_res_company__count_pending_changesets
 #: model:ir.model.fields,help:crm_project_task.field_res_config_settings__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr "El número de cambios pendientes de este registro"
+msgstr "A rekord folyamatban lévő módosításainak száma"
 
 #. module: crm_project_task
 #: model:ir.model.fields,help:crm_project_task.field_crm_create_task__count_changesets
@@ -254,7 +254,7 @@ msgstr "El número de cambios pendientes de este registro"
 #: model:ir.model.fields,help:crm_project_task.field_res_company__count_changesets
 #: model:ir.model.fields,help:crm_project_task.field_res_config_settings__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr "El número total de cambios de este registro"
+msgstr "Az e rekordhoz tartozó módosítások teljes száma"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__user_can_see_changeset
@@ -263,9 +263,9 @@ msgstr "El número total de cambios de este registro"
 #: model:ir.model.fields,field_description:crm_project_task.field_res_company__user_can_see_changeset
 #: model:ir.model.fields,field_description:crm_project_task.field_res_config_settings__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr "El usuario puede ver el conjunto de cambios"
+msgstr "A felhasználó láthatja a változtatáskészletet"
 
 #. module: crm_project_task
 #: model:ir.model,name:crm_project_task.model_crm_create_task
 msgid "Wizard to create task"
-msgstr "Asistente para crear tarea"
+msgstr "Feladat létrehozásának varázslója"

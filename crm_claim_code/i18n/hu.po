@@ -18,14 +18,14 @@ msgstr ""
 #. module: crm_claim_code
 #: model:ir.model,name:crm_claim_code.model_crm_claim
 msgid "Claim"
-msgstr "Réclamation"
+msgstr "Követelés"
 
 #. module: crm_claim_code
 #: model:ir.model.fields,field_description:crm_claim_code.field_crm_claim__code
 msgid "Claim Number"
-msgstr "Numéro de la demande"
+msgstr "Igénylés száma"
 
 #. module: crm_claim_code
 #: model:ir.model.constraint,message:crm_claim_code.constraint_crm_claim_crm_claim_unique_code
 msgid "The code must be unique!"
-msgstr "Le code doit être unique!"
+msgstr "A kódnak egyedinek kell lennie!"

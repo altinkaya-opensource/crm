@@ -18,7 +18,7 @@ msgstr ""
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_lead__task_count
 msgid "#Task"
-msgstr "#Tarea"
+msgstr "#Task"
 
 #. module: crm_project_task
 #: model_terms:ir.ui.view,arch_db:crm_project_task.res_config_settings_view_form
@@ -26,13 +26,13 @@ msgid ""
 "By default this project will be selected to create task from lead / "
 "opportunity"
 msgstr ""
-"Por defecto este proyecto será seleccionado para crear la tarea desde la "
-"iniciativa/oportunidad"
+"По умолчанию этот проект будет выбран для создания задачи из лида / "
+"возможности"
 
 #. module: crm_project_task
 #: model_terms:ir.ui.view,arch_db:crm_project_task.wizard_crm_create_task_view_form
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "Отменить"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__changeset_change_ids
@@ -41,7 +41,7 @@ msgstr "Cancelar"
 #: model:ir.model.fields,field_description:crm_project_task.field_res_company__changeset_change_ids
 #: model:ir.model.fields,field_description:crm_project_task.field_res_config_settings__changeset_change_ids
 msgid "Changeset Changes"
-msgstr "Cambios en el conjunto de cambios"
+msgstr "Набор изменений Изменения"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__changeset_ids
@@ -50,17 +50,17 @@ msgstr "Cambios en el conjunto de cambios"
 #: model:ir.model.fields,field_description:crm_project_task.field_res_company__changeset_ids
 #: model:ir.model.fields,field_description:crm_project_task.field_res_config_settings__changeset_ids
 msgid "Changesets"
-msgstr "Changesets"
+msgstr "Наборы изменений"
 
 #. module: crm_project_task
 #: model:ir.model,name:crm_project_task.model_res_company
 msgid "Companies"
-msgstr "Compañías"
+msgstr "Компании"
 
 #. module: crm_project_task
 #: model:ir.model,name:crm_project_task.model_res_config_settings
 msgid "Config Settings"
-msgstr "Configuración de la agrupación de los abastecimientos"
+msgstr "Конфигурационные настройки"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__count_changesets
@@ -69,7 +69,7 @@ msgstr "Configuración de la agrupación de los abastecimientos"
 #: model:ir.model.fields,field_description:crm_project_task.field_res_company__count_changesets
 #: model:ir.model.fields,field_description:crm_project_task.field_res_config_settings__count_changesets
 msgid "Count Changesets"
-msgstr "Contar los cambios"
+msgstr "Наборы изменений"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__count_pending_changeset_changes
@@ -78,7 +78,7 @@ msgstr "Contar los cambios"
 #: model:ir.model.fields,field_description:crm_project_task.field_res_company__count_pending_changeset_changes
 #: model:ir.model.fields,field_description:crm_project_task.field_res_config_settings__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr "Contar cambios pendientes"
+msgstr "Подсчет ожидающих изменений набора изменений"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__count_pending_changesets
@@ -87,76 +87,76 @@ msgstr "Contar cambios pendientes"
 #: model:ir.model.fields,field_description:crm_project_task.field_res_company__count_pending_changesets
 #: model:ir.model.fields,field_description:crm_project_task.field_res_config_settings__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr "Contar conjuntos de cambios pendientes"
+msgstr "Подсчет ожидающих изменений"
 
 #. module: crm_project_task
 #: model:ir.actions.act_window,name:crm_project_task.wizard_crm_create_task_action
 #: model_terms:ir.ui.view,arch_db:crm_project_task.inherit_crm_lead_view_form_crm_project_task
 #: model_terms:ir.ui.view,arch_db:crm_project_task.wizard_crm_create_task_view_form
 msgid "Create Task"
-msgstr "Crear tarea"
+msgstr "Создать задачу"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__create_uid
 msgid "Created by"
-msgstr "Creado por"
+msgstr "Создано"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__create_date
 msgid "Created on"
-msgstr "Creado el"
+msgstr "Создано на"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_res_company__crm_default_project_id
 #: model:ir.model.fields,field_description:crm_project_task.field_res_config_settings__crm_default_project_id
 msgid "Crm Default Project"
-msgstr "Proyecto por defecto en CRM"
+msgstr "Проект Crm по умолчанию"
 
 #. module: crm_project_task
 #: model_terms:ir.ui.view,arch_db:crm_project_task.res_config_settings_view_form
 msgid "Default project"
-msgstr "Proyecto por defecto"
+msgstr "Проект по умолчанию"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__description
 msgid "Description"
-msgstr "Descripción"
+msgstr "Описание"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__display_name
 msgid "Display Name"
-msgstr "Nombre mostrado"
+msgstr "Отображаемое имя"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__id
 msgid "ID"
-msgstr "Identificación"
+msgstr "ID"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task____last_update
 msgid "Last Modified on"
-msgstr "Última modificación el"
+msgstr "Последнее изменение"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__write_uid
 msgid "Last Updated by"
-msgstr "Última actualización por"
+msgstr "Последнее обновление"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__write_date
 msgid "Last Updated on"
-msgstr "Última actualización el"
+msgstr "Последнее обновление"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_project_task__lead_id
 msgid "Lead"
-msgstr "Iniciativa"
+msgstr "Ведущий"
 
 #. module: crm_project_task
 #: model:ir.model,name:crm_project_task.model_crm_lead
 #: model_terms:ir.ui.view,arch_db:crm_project_task.view_task_form2_inherit_crm_project_task
 msgid "Lead/Opportunity"
-msgstr "Iniciativa/Oportundad"
+msgstr "Лид / Сделка"
 
 #. module: crm_project_task
 #. odoo-python
@@ -164,8 +164,8 @@ msgstr "Iniciativa/Oportundad"
 #, python-format
 msgid "Lead/Opportunity not found. Please, create task from lead/opportunity."
 msgstr ""
-"Iniciativa/Oportunidad no encontrada. Por favor, cree la tarea desde una "
-"iniciativa/Oportunidad."
+"Зацепка/возможность не найдена. Пожалуйста, создайте задачу из "
+"лида/возможности."
 
 #. module: crm_project_task
 #. odoo-python
@@ -173,14 +173,12 @@ msgstr ""
 #, python-format
 msgid ""
 "Project not configured in settings, please contact with your administrator."
-msgstr ""
-"No hay un proyecto configurado en ajustes, por favor contacte con su "
-"administrador."
+msgstr "Проект не задан в настройках, обратитесь к администратору."
 
 #. module: crm_project_task
 #: model_terms:ir.ui.view,arch_db:crm_project_task.res_config_settings_view_form
 msgid "Projects"
-msgstr "Proyectos"
+msgstr "Проекты"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__smart_search
@@ -189,13 +187,13 @@ msgstr "Proyectos"
 #: model:ir.model.fields,field_description:crm_project_task.field_res_company__smart_search
 #: model:ir.model.fields,field_description:crm_project_task.field_res_config_settings__smart_search
 msgid "Smart Search"
-msgstr "Búsqueda inteligente"
+msgstr "Умный поиск"
 
 #. module: crm_project_task
 #: model:ir.model,name:crm_project_task.model_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_lead__task_ids
 msgid "Task"
-msgstr "Tarea"
+msgstr "Задача"
 
 #. module: crm_project_task
 #. odoo-python
@@ -205,13 +203,13 @@ msgid ""
 "Task <a href=# data-oe-model=project.task data-oe-id=%(task)d>%(name)s</a> "
 "created."
 msgstr ""
-"Tarea <a href=# data-oe-model=project.task data-oe-id=%(task)d>%(name)s</a> "
-"creada."
+"Задание <a href=# data-oe-model=project.task data-oe-id=%(task)d>%(имя)</a> "
+"создано."
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__task_name
 msgid "Task Name"
-msgstr "Nombre de tarea"
+msgstr "Название задания"
 
 #. module: crm_project_task
 #. odoo-python
@@ -221,13 +219,13 @@ msgid ""
 "Task created from lead/opportunity <a href=# data-oe-model=crm.lead data-oe-"
 "id=%(lead)d>%(name)s</a>."
 msgstr ""
-"Tarea creada desde la iniciativa/oportunidad <a href=# data-oe-"
-"model=crm.lead data-oe-id=%(lead)d>%(name)s</a>."
+"Задание создано на основе лида/возможности <a href=# data-oe-model=crm.lead "
+"data-oe-id=%(lead)d>%(имя)</a>."
 
 #. module: crm_project_task
 #: model_terms:ir.ui.view,arch_db:crm_project_task.inherit_crm_lead_view_form_crm_project_task
 msgid "Task(s)"
-msgstr "Tarea(s)"
+msgstr "Задача(и)"
 
 #. module: crm_project_task
 #: model:ir.model.fields,help:crm_project_task.field_crm_create_task__count_pending_changeset_changes
@@ -236,7 +234,7 @@ msgstr "Tarea(s)"
 #: model:ir.model.fields,help:crm_project_task.field_res_company__count_pending_changeset_changes
 #: model:ir.model.fields,help:crm_project_task.field_res_config_settings__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr "El número de cambios pendientes de este registro"
+msgstr "Количество ожидающих изменений этой записи"
 
 #. module: crm_project_task
 #: model:ir.model.fields,help:crm_project_task.field_crm_create_task__count_pending_changesets
@@ -245,7 +243,7 @@ msgstr "El número de cambios pendientes de este registro"
 #: model:ir.model.fields,help:crm_project_task.field_res_company__count_pending_changesets
 #: model:ir.model.fields,help:crm_project_task.field_res_config_settings__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr "El número de cambios pendientes de este registro"
+msgstr "Количество ожидающих изменений этой записи"
 
 #. module: crm_project_task
 #: model:ir.model.fields,help:crm_project_task.field_crm_create_task__count_changesets
@@ -254,7 +252,7 @@ msgstr "El número de cambios pendientes de este registro"
 #: model:ir.model.fields,help:crm_project_task.field_res_company__count_changesets
 #: model:ir.model.fields,help:crm_project_task.field_res_config_settings__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr "El número total de cambios de este registro"
+msgstr "Общее количество наборов изменений этой записи"
 
 #. module: crm_project_task
 #: model:ir.model.fields,field_description:crm_project_task.field_crm_create_task__user_can_see_changeset
@@ -263,9 +261,9 @@ msgstr "El número total de cambios de este registro"
 #: model:ir.model.fields,field_description:crm_project_task.field_res_company__user_can_see_changeset
 #: model:ir.model.fields,field_description:crm_project_task.field_res_config_settings__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr "El usuario puede ver el conjunto de cambios"
+msgstr "Пользователь может видеть набор изменений"
 
 #. module: crm_project_task
 #: model:ir.model,name:crm_project_task.model_crm_create_task
 msgid "Wizard to create task"
-msgstr "Asistente para crear tarea"
+msgstr "Мастер создания задачи"

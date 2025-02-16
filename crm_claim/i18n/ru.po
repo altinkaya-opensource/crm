@@ -19,97 +19,97 @@ msgstr ""
 #: model:ir.model.fields,field_description:crm_claim.field_res_partner__claim_count
 #: model:ir.model.fields,field_description:crm_claim.field_res_users__claim_count
 msgid "# Claims"
-msgstr "# Reklamationen"
+msgstr "# Требования"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__email
 msgid "# Emails"
-msgstr "# E-Mails"
+msgstr "# Электронная почта"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__nbr_claims
 msgid "# of Claims"
-msgstr "# Reklamationen"
+msgstr "# претензии"
 
 #. module: crm_claim
 #. odoo-python
 #: code:addons/crm_claim/models/crm_claim.py:0
 #, python-format
 msgid "%s (copy)"
-msgstr "%s (Kopie)"
+msgstr "%s (копия)"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Action Description..."
-msgstr "Beschreibung der Aktion..."
+msgstr "Описание действий..."
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_needaction
 msgid "Action Needed"
-msgstr "Benötigt Aktion"
+msgstr "Необходимые действия"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__type_action
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__type_action
 msgid "Action Type"
-msgstr "Aktionstyp"
+msgstr "Тип действия"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__active
 msgid "Active"
-msgstr "Aktiv"
+msgstr "Активный"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_ids
 msgid "Activities"
-msgstr "Aktivitäten"
+msgstr "Деятельность"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_exception_decoration
 msgid "Activity Exception Decoration"
-msgstr "Aktivitätsausnahme-Dekoration"
+msgstr "Деятельность Исключение Декорирование"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_state
 msgid "Activity State"
-msgstr "Aktivitätsstatus"
+msgstr "Состояние деятельности"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_type_icon
 msgid "Activity Type Icon"
-msgstr "Aktivitätstyp-Symbol"
+msgstr "Значок типа деятельности"
 
 #. module: crm_claim
 #: model:ir.ui.menu,name:crm_claim.menu_aftersale
 msgid "After Sale"
-msgstr "Nach dem Verkauf"
+msgstr "После продажи"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_attachment_count
 msgid "Attachment Count"
-msgstr "Anzahl Anhänge"
+msgstr "Подсчет вложений"
 
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_crm_claim_report
 msgid "CRM Claim Report"
-msgstr "CRM Reklamationsbericht"
+msgstr "Отчет о претензиях к CRM"
 
 #. module: crm_claim
 #: model:ir.ui.menu,name:crm_claim.menu_crm_case_claim-act
 msgid "Categories"
-msgstr "Kategorien"
+msgstr "Категории"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__categ_id
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__categ_id
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Category"
-msgstr "Kategorie"
+msgstr "Категория"
 
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_crm_claim_category
 msgid "Category of claim"
-msgstr "Kategorie der Reklamation"
+msgstr "Категория претензии"
 
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_crm_claim
@@ -118,65 +118,65 @@ msgstr "Kategorie der Reklamation"
 #: model:ir.ui.menu,name:crm_claim.menu_config_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Claim"
-msgstr "Forderung"
+msgstr "Заявка"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,name:crm_claim.crm_claim_categ_action
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_claim_category_form
 msgid "Claim Categories"
-msgstr "Reklamationskategorien"
+msgstr "Категории претензий"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__date
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__claim_date
 msgid "Claim Date"
-msgstr "Datum der Reklamation"
+msgstr "Дата подачи заявления"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Claim Date by Month"
-msgstr "Datum der Reklamationen nach Monat"
+msgstr "Дата подачи заявления по месяцам"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Claim Description"
-msgstr "Reklamationsbeschreibung"
+msgstr "Описание претензии"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Claim Month"
-msgstr "Monat der Reklamation"
+msgstr "Месяц претензий"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Claim Reporter"
-msgstr "Reklamation gemeldet von"
+msgstr "Заявитель претензий"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_claim_stage_form
 msgid "Claim Stage"
-msgstr "Reklamationsstadium"
+msgstr "Стадия претензии"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,name:crm_claim.crm_claim_stage_act
 msgid "Claim Stages"
-msgstr "Reklamationsstadien"
+msgstr "Этапы составления претензии"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__name
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__subject
 msgid "Claim Subject"
-msgstr "Betreff der Reklamation"
+msgstr "Предмет иска"
 
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_crm_claim_stage
 msgid "Claim stages"
-msgstr "Forderungsstufen"
+msgstr "Этапы претензий"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Claim/Action Description"
-msgstr "Beschreibung der Reklamation/Aktion"
+msgstr "Описание претензии/действия"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,name:crm_claim.crm_claim_category_claim0
@@ -189,72 +189,70 @@ msgstr "Beschreibung der Reklamation/Aktion"
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_graph
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_pivot
 msgid "Claims"
-msgstr "Reklamationen"
+msgstr "Претензии"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,name:crm_claim.action_report_crm_claim
 msgid "Claims Analysis"
-msgstr "Analyse der Reklamationen"
+msgstr "Анализ претензий"
 
 #. module: crm_claim
 #: model_terms:ir.actions.act_window,help:crm_claim.crm_claim_categ_action
 msgid "Click to create a claim category."
-msgstr "Klicken, um eine Reklamationskategorie anzulegen."
+msgstr "Нажмите, чтобы создать категорию претензий."
 
 #. module: crm_claim
 #: model_terms:ir.actions.act_window,help:crm_claim.crm_claim_stage_act
 msgid "Click to setup a new stage in the processing of the claims."
-msgstr ""
-"Klicken Sie auf , um ein neues Stadium in der Bearbeitung der Reklamationen "
-"einzurichten."
+msgstr "Нажмите, чтобы установить новый этап обработки претензий."
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__date_closed
 msgid "Close Date"
-msgstr "Abschlussdatum"
+msgstr "Дата закрытия"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__date_closed
 msgid "Closed"
-msgstr "Geschlossen"
+msgstr "Закрытый"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Closure"
-msgstr "Abschluss"
+msgstr "Корпуса"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__case_default
 msgid "Common to All Teams"
-msgstr "Gleich für alle Teams"
+msgstr "Общие для всех команд"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__company_id
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__company_id
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Company"
-msgstr "Unternehmen"
+msgstr "Компания"
 
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_res_partner
 msgid "Contact"
-msgstr "Kontakt"
+msgstr "Контакт"
 
 #. module: crm_claim
 #: model:utm.campaign,title:crm_claim.claim_source1
 msgid "Corrective"
-msgstr "Korrektiv"
+msgstr "Исправление"
 
 #. module: crm_claim
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim__type_action__correction
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim_report__type_action__correction
 msgid "Corrective Action"
-msgstr "Korrektive Maßnahme"
+msgstr "Корректирующие действия"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__create_date
 msgid "Create Date"
-msgstr "Erstelldatum"
+msgstr "Дата создания"
 
 #. module: crm_claim
 #: model_terms:ir.actions.act_window,help:crm_claim.crm_claim_categ_action
@@ -263,64 +261,64 @@ msgid ""
 "            claims. Some examples of claims can be: preventive action,\n"
 "            corrective action."
 msgstr ""
-"Erstellen Sie Anspruchskategorien zur besseren Verwaltung und Klassifizierung Ihrer\n"
-"            Ansprüche. Einige Beispiele für Ansprüche können sein: Vorbeugende Maßnahmen,\n"
-"            korrigierende Maßnahmen."
+"Создавайте категории претензий, чтобы лучше управлять и классифицировать Ваши\n"
+"            претензий. Примерами претензий могут быть: профилактические действия,\n"
+"            корректирующее действие."
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__create_uid
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_category__create_uid
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__create_uid
 msgid "Created by"
-msgstr "Erstellt von"
+msgstr "Создано"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_category__create_date
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__create_date
 msgid "Created on"
-msgstr "Erstellt am"
+msgstr "Создано на"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__create_date
 msgid "Creation Date"
-msgstr "Erstelldatum"
+msgstr "Дата создания"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Creation Month"
-msgstr "Erstellmonat"
+msgstr "Месяц создания"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Date Closed"
-msgstr "Abschlussdatum"
+msgstr "Дата закрыта"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Dates"
-msgstr "Daten"
+msgstr "Даты"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__date_deadline
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__date_deadline
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Deadline"
-msgstr "Frist"
+msgstr "Крайний срок"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__delay_close
 msgid "Delay to close"
-msgstr "Verzögerung des Abschlusses"
+msgstr "Задержка с закрытием"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__description
 msgid "Description"
-msgstr "Beschreibung"
+msgstr "Описание"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__email_from
 msgid "Destination email for email gateway."
-msgstr "Ziel-E-Mail für E-Mail-Gateway."
+msgstr "Электронная почта назначения для почтового шлюза."
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__display_name
@@ -328,53 +326,53 @@ msgstr "Ziel-E-Mail für E-Mail-Gateway."
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__display_name
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__display_name
 msgid "Display Name"
-msgstr "Anzeigename"
+msgstr "Отображаемое имя"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__email_from
 msgid "Email"
-msgstr "E-Mail"
+msgstr "Электронная почта"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Extended Filters..."
-msgstr "Erweiterte Filter..."
+msgstr "Расширенные фильтры..."
 
 #. module: crm_claim
 #: model:crm.claim.category,name:crm_claim.categ_claim1
 msgid "Factual Claims"
-msgstr "Sachliche Reklamationen"
+msgstr "Фактические претензии"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Follow Up"
-msgstr "Folgeaktionen"
+msgstr "Последующие действия"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_follower_ids
 msgid "Followers"
-msgstr "Abonnenten"
+msgstr "Последователи"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_partner_ids
 msgid "Followers (Partners)"
-msgstr "Abonnenten (Partner)"
+msgstr "Последователи (Партнеры)"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__activity_type_icon
 msgid "Font awesome icon e.g. fa-tasks"
-msgstr "Font awesome icon z.B. fa-tasks"
+msgstr "Шрифт потрясающей иконки, например, fa-tasks"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Group By"
-msgstr "Gruppieren nach"
+msgstr "Группа по"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__has_message
 msgid "Has Message"
-msgstr "Hat Nachricht"
+msgstr "Сообщение"
 
 #. module: crm_claim
 #: model_terms:ir.actions.act_window,help:crm_claim.action_report_crm_claim
@@ -382,14 +380,14 @@ msgid ""
 "Have a general overview of all claims processed in the system by sorting "
 "them with specific criteria."
 msgstr ""
-"Verschaffen Sie sich einen Überblick über alle im System bearbeiteten "
-"Reklamationen, indem Sie sie nach bestimmten Kriterien sortieren."
+"Получите общий обзор всех обработанных в системе претензий, отсортировав их "
+"по определенным критериям."
 
 #. module: crm_claim
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim__priority__2
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim_report__priority__2
 msgid "High"
-msgstr "Hoch"
+msgstr "High"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__id
@@ -402,27 +400,23 @@ msgstr "ID"
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_exception_icon
 msgid "Icon"
-msgstr "Symbol"
+msgstr "Icon"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__activity_exception_icon
 msgid "Icon to indicate an exception activity."
-msgstr "Symbol zur Kennzeichnung einer Ausnahmeaktivität."
+msgstr "Значок, обозначающий исключение из правил."
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__message_needaction
 msgid "If checked, new messages require your attention."
-msgstr ""
-"Wenn dieses Kontrollkästchen aktiviert ist, erfordern neue Nachrichten eine "
-"Aktion ihrerseits."
+msgstr "Если Вы отметили, новые сообщения требуют Вашего внимания."
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__message_has_error
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__message_has_sms_error
 msgid "If checked, some messages have a delivery error."
-msgstr ""
-"Wenn dieses Kontrollkästchen aktiviert ist, weisen einige Nachrichten einen "
-"Zustellungsfehler auf."
+msgstr "Если флажок установлен, некоторые сообщения содержат ошибку доставки."
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim_stage__case_default
@@ -430,19 +424,18 @@ msgid ""
 "If you check this field, this stage will be proposed by default on each "
 "sales team. It will not assign this stage to existing teams."
 msgstr ""
-"Wenn Sie dieses Feld markieren, wird dieses Stadium standardmäßig für jedes "
-"Verkaufsteam vorgeschlagen. Bestehenden Teams wird dieses Stadium nicht "
-"zugewiesen."
+"Если Вы отметите это поле, данный этап будет предложен по умолчанию для "
+"каждого отдела продаж. Существующим командам этот этап назначаться не будет."
 
 #. module: crm_claim
 #: model:crm.claim.stage,name:crm_claim.stage_claim5
 msgid "In Progress"
-msgstr "In Arbeit"
+msgstr "В процессе"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_is_follower
 msgid "Is Follower"
-msgstr "Ist Follower"
+msgstr "Является последователем"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim____last_update
@@ -450,20 +443,20 @@ msgstr "Ist Follower"
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report____last_update
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage____last_update
 msgid "Last Modified on"
-msgstr "Zuletzt bearbeitet am"
+msgstr "Последнее изменение"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__write_uid
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_category__write_uid
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__write_uid
 msgid "Last Updated by"
-msgstr "Zuletzt aktualisiert von"
+msgstr "Последнее обновление"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_category__write_date
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__write_date
 msgid "Last Updated on"
-msgstr "Zuletzt aktualisiert am"
+msgstr "Последнее обновление"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim_stage__team_ids
@@ -471,128 +464,127 @@ msgid ""
 "Link between stages and sales teams. When set, this limitate the current "
 "stage to the selected sales teams."
 msgstr ""
-"Verbindung zwischen Stadien und Verkaufsteams. Wenn diese Option aktiviert "
-"ist, wird das aktuelle Stadium auf die ausgewählten Verkaufsteams "
-"beschränkt."
+"Связь между этапами и отделами продаж. Если эта опция установлена, она "
+"ограничивает текущий этап выбранными отделами продаж."
 
 #. module: crm_claim
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim__priority__0
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim_report__priority__0
 msgid "Low"
-msgstr "Niedrig"
+msgstr "Низкий"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_main_attachment_id
 msgid "Main Attachment"
-msgstr "Hauptanhang"
+msgstr "Основное вложение"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_has_error
 msgid "Message Delivery error"
-msgstr "Übermittlungsfehler"
+msgstr "Ошибка доставки сообщения"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_ids
 msgid "Messages"
-msgstr "Nachrichten"
+msgstr "Сообщения"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__model_ref_id
 msgid "Model Reference"
-msgstr "Bezieht sich auf"
+msgstr "Ссылка на модель"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Month of claim"
-msgstr "Monat der Reklamation"
+msgstr "Месяц предъявления претензии"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__my_activity_date_deadline
 msgid "My Activity Deadline"
-msgstr "Meine Aktivität Deadline"
+msgstr "Моя деятельность Крайний срок"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "My Company"
-msgstr "Mein Unternehmen"
+msgstr "Моя компания"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "My Sales Team(s)"
-msgstr "Mein Verkaufsteam"
+msgstr "Моя команда (команды) по продажам"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_category__name
 msgid "Name"
-msgstr "Name"
+msgstr "Имя"
 
 #. module: crm_claim
 #: model:crm.claim.stage,name:crm_claim.stage_claim1
 msgid "New"
-msgstr "Neu"
+msgstr "Новый"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_calendar_event_id
 msgid "Next Activity Calendar Event"
-msgstr "Nächstes Aktivitätskalender-Ereignis"
+msgstr "Следующее событие календаря активности"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_date_deadline
 msgid "Next Activity Deadline"
-msgstr "Frist der nächsten Aktivität"
+msgstr "Следующий крайний срок выполнения работы"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_summary
 msgid "Next Activity Summary"
-msgstr "Zusammenfassung der nächsten Aktivität"
+msgstr "Следующее резюме деятельности"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_type_id
 msgid "Next Activity Type"
-msgstr "Typ der nächsten Aktivität"
+msgstr "Следующий вид деятельности"
 
 #. module: crm_claim
 #. odoo-python
 #: code:addons/crm_claim/models/crm_claim.py:0
 #, python-format
 msgid "No Subject"
-msgstr "Kein Betreff"
+msgstr "Нет темы"
 
 #. module: crm_claim
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim__priority__1
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim_report__priority__1
 msgid "Normal"
-msgstr "Normal"
+msgstr "Обычный"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_needaction_counter
 msgid "Number of Actions"
-msgstr "Anzahl Aktionen"
+msgstr "Количество действий"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim_report__delay_close
 msgid "Number of Days to close the case"
-msgstr "Anzahl Tage bis zum Abschluss"
+msgstr "Количество дней до завершения дела"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_has_error_counter
 msgid "Number of errors"
-msgstr "Anzahl Errors"
+msgstr "Количество ошибок"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__message_needaction_counter
 msgid "Number of messages requiring action"
-msgstr "Anzahl der Nachrichten mit Handlungsbedarf"
+msgstr "Количество сообщений, требующих принятия мер"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__message_has_error_counter
 msgid "Number of messages with delivery error"
-msgstr "Anzahl Nachrichten mit Übermittlungsfehler"
+msgstr "Количество сообщений с ошибкой доставки"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__delay_expected
 msgid "Overpassed Deadline"
-msgstr "Verstrichene Frist"
+msgstr "Превышение сроков"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__partner_id
@@ -601,34 +593,34 @@ msgstr "Verstrichene Frist"
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Partner"
-msgstr "Partner"
+msgstr "Партнер"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__partner_phone
 msgid "Phone"
-msgstr "Telefon"
+msgstr "Телефон"
 
 #. module: crm_claim
 #: model:crm.claim.category,name:crm_claim.categ_claim3
 msgid "Policy Claims"
-msgstr "Policen-Reklamationen"
+msgstr "Политические претензии"
 
 #. module: crm_claim
 #: model:utm.campaign,title:crm_claim.claim_source2
 msgid "Preventive"
-msgstr "Präventiv"
+msgstr "Профилактика"
 
 #. module: crm_claim
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim__type_action__prevention
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim_report__type_action__prevention
 msgid "Preventive Action"
-msgstr "Präventive Aktion"
+msgstr "Превентивные действия"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__priority
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__priority
 msgid "Priority"
-msgstr "Priorität"
+msgstr "Приоритет"
 
 #. module: crm_claim
 #: model_terms:ir.actions.act_window,help:crm_claim.crm_claim_category_claim0
@@ -638,42 +630,42 @@ msgid ""
 "                You can send emails with attachments and keep the full history for a claim (emails sent, intervention type and so on).\n"
 "                Claims may automatically be linked to an email address using the mail gateway module."
 msgstr ""
-"Erfassen und verfolgen Sie die Reklamationen Ihrer Kunden.\n"
-"                Reklamationen können mit einem Kundenauftrag oder einer Partie verknüpft werden.\n"
-"                Sie können E-Mails mit Anhängen versenden und die gesamte Historie einer Reklamation aufbewahren (gesendete E-Mails, Art der Intervention usw.).\n"
-"                Reklamationen können mit Hilfe des Mail-Gateway-Moduls automatisch mit einer E-Mail-Adresse verknüpft werden."
+"Записывайте и отслеживайте претензии Ваших клиентов.\n"
+"                Претензии могут быть связаны с заказом на продажу или партией товара.\n"
+"                Вы можете отправлять электронные письма с вложениями и вести полную историю претензии (отправленные письма, тип вмешательства и т.д.).\n"
+"                Претензии могут быть автоматически привязаны к адресу электронной почты с помощью модуля почтового шлюза."
 
 #. module: crm_claim
 #: model:crm.claim.stage,name:crm_claim.stage_claim3
 msgid "Rejected"
-msgstr "Abgelehnt"
+msgstr "Отклоненные"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__resolution
 msgid "Resolution"
-msgstr "Lösung"
+msgstr "Разрешение"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Resolution Actions"
-msgstr "Lösungsaktionen"
+msgstr "Действия по решению проблемы"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Responsibilities"
-msgstr "Verantwortlichkeiten"
+msgstr "Обязанности"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__user_id
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Responsible"
-msgstr "Verantwortlich"
+msgstr "Ответственный"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_user_id
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Responsible User"
-msgstr "Verantwortlicher Benutzer"
+msgstr "Ответственный пользователь"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__team_id
@@ -681,55 +673,55 @@ msgid ""
 "Responsible sales team. Define Responsible user and Email account for mail "
 "gateway."
 msgstr ""
-"Verantwortliches Verkaufsteam. Definieren Sie den zuständigen Benutzer und "
-"das E-Mail-Konto für das Mail-Gateway."
+"Ответственный отдел продаж. Определите ответственного пользователя и учетную"
+" запись электронной почты для почтового шлюза."
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__cause
 msgid "Root Cause"
-msgstr "Grundursache"
+msgstr "Коренная причина"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Root Causes"
-msgstr "Grundursachen"
+msgstr "Коренные причины"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_has_sms_error
 msgid "SMS Delivery error"
-msgstr "SMS Zustellungsfehler"
+msgstr "Ошибка доставки SMS"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__team_id
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_category__team_id
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Sales Team"
-msgstr "Verkaufsteam"
+msgstr "Отдел продаж"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Salesperson"
-msgstr "Verkäufer"
+msgstr "Продавец"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Search"
-msgstr "Suche"
+msgstr "Поиск"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Search Claims"
-msgstr "Suche nach Reklamationen"
+msgstr "Поиск претензий"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__sequence
 msgid "Sequence"
-msgstr "Sequenz"
+msgstr "Последовательность"
 
 #. module: crm_claim
 #: model:crm.claim.stage,name:crm_claim.stage_claim2
 msgid "Settled"
-msgstr "Erledigt"
+msgstr "Настроено"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__stage_id
@@ -737,17 +729,17 @@ msgstr "Erledigt"
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Stage"
-msgstr "Stadium"
+msgstr "Этап"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__name
 msgid "Stage Name"
-msgstr "Name des Stadiums"
+msgstr "Название этапа"
 
 #. module: crm_claim
 #: model:ir.ui.menu,name:crm_claim.menu_claim_stage_view
 msgid "Stages"
-msgstr "Stadien"
+msgstr "Этапы"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__activity_state
@@ -757,20 +749,20 @@ msgid ""
 "Today: Activity date is today\n"
 "Planned: Future activities."
 msgstr ""
-"Status basierend auf Aktivitäten\n"
-"Überfällig: Fälligkeitsdatum ist bereits überschritten\n"
-"Heute: Aktivitätsdatum ist heute\n"
-"Geplant: Zukünftige Aktivitäten."
+"Статус в зависимости от деятельности\n"
+"Просрочено: Срок выполнения уже прошел\n"
+"Сегодня: Дата выполнения сегодня\n"
+"Запланировано: Будущие действия."
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__team_id
 msgid "Team"
-msgstr "Team"
+msgstr "Команда"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__team_ids
 msgid "Teams"
-msgstr "Teams"
+msgstr "Команды"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__email_cc
@@ -779,65 +771,65 @@ msgid ""
 "outbound emails for this record before being sent. Separate multiple email "
 "addresses with a comma"
 msgstr ""
-"Diese E-Mail-Adressen werden dem CC-Feld aller ein- und ausgehenden E-Mails "
-"für diesen Datensatz hinzugefügt, bevor sie gesendet werden. Trennen Sie "
-"mehrere E-Mail-Adressen mit einem Komma"
+"Эти адреса электронной почты будут добавляться в поле CC всех входящих и "
+"исходящих электронных писем для этой записи перед отправкой. Разделите "
+"несколько адресов электронной почты запятой"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__user_fault
 msgid "Trouble Responsible"
-msgstr "Verantworlich für Probleme"
+msgstr "Ответственный за проблемы"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_tree_view
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Type"
-msgstr "Typ"
+msgstr "Тип"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__activity_exception_decoration
 msgid "Type of the exception activity on record."
-msgstr "Art der Ausnahmeaktivität des Datensatzes."
+msgstr "Тип зарегистрированного исключения."
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Unassigned Claims"
-msgstr "Nicht zugewiesene Reklamationen"
+msgstr "Нераспределенные претензии"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__write_date
 msgid "Update Date"
-msgstr "Aktualisierungsdatum"
+msgstr "Дата обновления"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim_stage__sequence
 msgid "Used to order stages. Lower is better."
-msgstr "Wird verwendet, um Stadien zu sortieren. Niedriger ist besser."
+msgstr "Привычные этапы заказа. Ниже - значит лучше."
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__user_id
 msgid "User"
-msgstr "Benutzer"
+msgstr "Пользователь"
 
 #. module: crm_claim
 #: model:crm.claim.category,name:crm_claim.categ_claim2
 msgid "Value Claims"
-msgstr "Wertreklamationen"
+msgstr "Претензии к стоимости"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__email_cc
 msgid "Watchers Emails"
-msgstr "Beobachter-E-Mails"
+msgstr "Письма наблюдателей"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__website_message_ids
 msgid "Website Messages"
-msgstr "Website-Nachrichten"
+msgstr "Сообщения на сайте"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__website_message_ids
 msgid "Website communication history"
-msgstr "Geschichte der Website-Kommunikation"
+msgstr "История общения на сайте"
 
 #. module: crm_claim
 #: model_terms:ir.actions.act_window,help:crm_claim.crm_claim_stage_act
@@ -846,6 +838,6 @@ msgid ""
 "            claim entered in the system. The stages define all the steps\n"
 "            required for the resolution of a claim."
 msgstr ""
-"Sie können Stadien für Reklamationen anlegen, um den Status der einzelnen\n"
-"            Reklamation im System zu kategorisieren. Die Stadien definieren alle Schritte, die\n"
-"            für die Lösung einer Reklamation erforderlich sind."
+"Вы можете создавать этапы претензий, чтобы классифицировать статус каждой\n"
+"            претензии, введенной в систему. Этапы определяют все шаги\n"
+"            необходимые для разрешения претензии."

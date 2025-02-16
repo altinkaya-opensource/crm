@@ -19,97 +19,97 @@ msgstr ""
 #: model:ir.model.fields,field_description:crm_claim.field_res_partner__claim_count
 #: model:ir.model.fields,field_description:crm_claim.field_res_users__claim_count
 msgid "# Claims"
-msgstr "# Reklamationen"
+msgstr "# المطالبات"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__email
 msgid "# Emails"
-msgstr "# E-Mails"
+msgstr "# رسائل البريد الإلكتروني"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__nbr_claims
 msgid "# of Claims"
-msgstr "# Reklamationen"
+msgstr "# المطالبات"
 
 #. module: crm_claim
 #. odoo-python
 #: code:addons/crm_claim/models/crm_claim.py:0
 #, python-format
 msgid "%s (copy)"
-msgstr "%s (Kopie)"
+msgstr "٪ س (نسخة)"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Action Description..."
-msgstr "Beschreibung der Aktion..."
+msgstr "وصف العمل..."
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_needaction
 msgid "Action Needed"
-msgstr "Benötigt Aktion"
+msgstr "الإجراء المطلوب"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__type_action
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__type_action
 msgid "Action Type"
-msgstr "Aktionstyp"
+msgstr "نوع العمل"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__active
 msgid "Active"
-msgstr "Aktiv"
+msgstr "نشط"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_ids
 msgid "Activities"
-msgstr "Aktivitäten"
+msgstr "الأنشطة"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_exception_decoration
 msgid "Activity Exception Decoration"
-msgstr "Aktivitätsausnahme-Dekoration"
+msgstr "زخرفة استثناءات النشاط"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_state
 msgid "Activity State"
-msgstr "Aktivitätsstatus"
+msgstr "حالة النشاط"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_type_icon
 msgid "Activity Type Icon"
-msgstr "Aktivitätstyp-Symbol"
+msgstr "أيقونة نوع النشاط"
 
 #. module: crm_claim
 #: model:ir.ui.menu,name:crm_claim.menu_aftersale
 msgid "After Sale"
-msgstr "Nach dem Verkauf"
+msgstr "ما بعد البيع"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_attachment_count
 msgid "Attachment Count"
-msgstr "Anzahl Anhänge"
+msgstr "عدد المرفقات"
 
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_crm_claim_report
 msgid "CRM Claim Report"
-msgstr "CRM Reklamationsbericht"
+msgstr "تقرير مطالبة إدارة علاقات العملاء"
 
 #. module: crm_claim
 #: model:ir.ui.menu,name:crm_claim.menu_crm_case_claim-act
 msgid "Categories"
-msgstr "Kategorien"
+msgstr "الفئات"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__categ_id
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__categ_id
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Category"
-msgstr "Kategorie"
+msgstr "الفئة"
 
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_crm_claim_category
 msgid "Category of claim"
-msgstr "Kategorie der Reklamation"
+msgstr "فئة المطالبة"
 
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_crm_claim
@@ -118,65 +118,65 @@ msgstr "Kategorie der Reklamation"
 #: model:ir.ui.menu,name:crm_claim.menu_config_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Claim"
-msgstr "Forderung"
+msgstr "المطالبة"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,name:crm_claim.crm_claim_categ_action
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_claim_category_form
 msgid "Claim Categories"
-msgstr "Reklamationskategorien"
+msgstr "فئات المطالبات"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__date
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__claim_date
 msgid "Claim Date"
-msgstr "Datum der Reklamation"
+msgstr "تاريخ المطالبة"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Claim Date by Month"
-msgstr "Datum der Reklamationen nach Monat"
+msgstr "تاريخ المطالبة حسب الشهر"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Claim Description"
-msgstr "Reklamationsbeschreibung"
+msgstr "وصف المطالبة"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Claim Month"
-msgstr "Monat der Reklamation"
+msgstr "شهر المطالبة"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Claim Reporter"
-msgstr "Reklamation gemeldet von"
+msgstr "مراسل المطالبات"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_claim_stage_form
 msgid "Claim Stage"
-msgstr "Reklamationsstadium"
+msgstr "مرحلة المطالبة"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,name:crm_claim.crm_claim_stage_act
 msgid "Claim Stages"
-msgstr "Reklamationsstadien"
+msgstr "مراحل المطالبة"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__name
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__subject
 msgid "Claim Subject"
-msgstr "Betreff der Reklamation"
+msgstr "موضوع المطالبة"
 
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_crm_claim_stage
 msgid "Claim stages"
-msgstr "Forderungsstufen"
+msgstr "مراحل المطالبة"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Claim/Action Description"
-msgstr "Beschreibung der Reklamation/Aktion"
+msgstr "وصف المطالبة/الإجراء"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,name:crm_claim.crm_claim_category_claim0
@@ -189,72 +189,70 @@ msgstr "Beschreibung der Reklamation/Aktion"
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_graph
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_pivot
 msgid "Claims"
-msgstr "Reklamationen"
+msgstr "المطالبات"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,name:crm_claim.action_report_crm_claim
 msgid "Claims Analysis"
-msgstr "Analyse der Reklamationen"
+msgstr "تحليل المطالبات"
 
 #. module: crm_claim
 #: model_terms:ir.actions.act_window,help:crm_claim.crm_claim_categ_action
 msgid "Click to create a claim category."
-msgstr "Klicken, um eine Reklamationskategorie anzulegen."
+msgstr "انقر لإنشاء فئة مطالبة."
 
 #. module: crm_claim
 #: model_terms:ir.actions.act_window,help:crm_claim.crm_claim_stage_act
 msgid "Click to setup a new stage in the processing of the claims."
-msgstr ""
-"Klicken Sie auf , um ein neues Stadium in der Bearbeitung der Reklamationen "
-"einzurichten."
+msgstr "انقر لإعداد مرحلة جديدة في معالجة المطالبات."
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__date_closed
 msgid "Close Date"
-msgstr "Abschlussdatum"
+msgstr "تاريخ الإغلاق"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__date_closed
 msgid "Closed"
-msgstr "Geschlossen"
+msgstr "مغلق"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Closure"
-msgstr "Abschluss"
+msgstr "الإغلاق"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__case_default
 msgid "Common to All Teams"
-msgstr "Gleich für alle Teams"
+msgstr "مشترك بين جميع الفرق"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__company_id
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__company_id
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Company"
-msgstr "Unternehmen"
+msgstr "الشركة"
 
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_res_partner
 msgid "Contact"
-msgstr "Kontakt"
+msgstr "جهة الاتصال"
 
 #. module: crm_claim
 #: model:utm.campaign,title:crm_claim.claim_source1
 msgid "Corrective"
-msgstr "Korrektiv"
+msgstr "التصحيحية"
 
 #. module: crm_claim
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim__type_action__correction
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim_report__type_action__correction
 msgid "Corrective Action"
-msgstr "Korrektive Maßnahme"
+msgstr "الإجراءات التصحيحية"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__create_date
 msgid "Create Date"
-msgstr "Erstelldatum"
+msgstr "تاريخ الإنشاء"
 
 #. module: crm_claim
 #: model_terms:ir.actions.act_window,help:crm_claim.crm_claim_categ_action
@@ -263,64 +261,64 @@ msgid ""
 "            claims. Some examples of claims can be: preventive action,\n"
 "            corrective action."
 msgstr ""
-"Erstellen Sie Anspruchskategorien zur besseren Verwaltung und Klassifizierung Ihrer\n"
-"            Ansprüche. Einige Beispiele für Ansprüche können sein: Vorbeugende Maßnahmen,\n"
-"            korrigierende Maßnahmen."
+"إنشاء فئات مطالبات لإدارة وتصنيف مطالباتك بشكل أفضل.\n"
+"            مطالباتك. يمكن أن تكون بعض الأمثلة على المطالبات: الإجراءات الوقائية,\n"
+"            الإجراءات التصحيحية."
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__create_uid
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_category__create_uid
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__create_uid
 msgid "Created by"
-msgstr "Erstellt von"
+msgstr "تم إنشاؤه بواسطة"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_category__create_date
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__create_date
 msgid "Created on"
-msgstr "Erstellt am"
+msgstr "تم إنشاؤه على"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__create_date
 msgid "Creation Date"
-msgstr "Erstelldatum"
+msgstr "تاريخ الإنشاء"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Creation Month"
-msgstr "Erstellmonat"
+msgstr "شهر الإنشاء"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Date Closed"
-msgstr "Abschlussdatum"
+msgstr "تاريخ الانتهاء"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Dates"
-msgstr "Daten"
+msgstr "التواريخ"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__date_deadline
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__date_deadline
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Deadline"
-msgstr "Frist"
+msgstr "الموعد النهائي"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__delay_close
 msgid "Delay to close"
-msgstr "Verzögerung des Abschlusses"
+msgstr "التأخير في الإغلاق"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__description
 msgid "Description"
-msgstr "Beschreibung"
+msgstr "الوصف"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__email_from
 msgid "Destination email for email gateway."
-msgstr "Ziel-E-Mail für E-Mail-Gateway."
+msgstr "البريد الإلكتروني الوجهة لبوابة البريد الإلكتروني."
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__display_name
@@ -328,53 +326,53 @@ msgstr "Ziel-E-Mail für E-Mail-Gateway."
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__display_name
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__display_name
 msgid "Display Name"
-msgstr "Anzeigename"
+msgstr "اسم العرض"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__email_from
 msgid "Email"
-msgstr "E-Mail"
+msgstr "البريد الإلكتروني"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Extended Filters..."
-msgstr "Erweiterte Filter..."
+msgstr "الفلاتر الموسعة..."
 
 #. module: crm_claim
 #: model:crm.claim.category,name:crm_claim.categ_claim1
 msgid "Factual Claims"
-msgstr "Sachliche Reklamationen"
+msgstr "المطالبات الواقعية"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Follow Up"
-msgstr "Folgeaktionen"
+msgstr "المتابعة"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_follower_ids
 msgid "Followers"
-msgstr "Abonnenten"
+msgstr "المتابعون"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_partner_ids
 msgid "Followers (Partners)"
-msgstr "Abonnenten (Partner)"
+msgstr "المتابعون (الشركاء)"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__activity_type_icon
 msgid "Font awesome icon e.g. fa-tasks"
-msgstr "Font awesome icon z.B. fa-tasks"
+msgstr "أيقونة الخط الرائع على سبيل المثال FA-tasks"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Group By"
-msgstr "Gruppieren nach"
+msgstr "المجموعة حسب"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__has_message
 msgid "Has Message"
-msgstr "Hat Nachricht"
+msgstr "لديه رسالة"
 
 #. module: crm_claim
 #: model_terms:ir.actions.act_window,help:crm_claim.action_report_crm_claim
@@ -382,14 +380,14 @@ msgid ""
 "Have a general overview of all claims processed in the system by sorting "
 "them with specific criteria."
 msgstr ""
-"Verschaffen Sie sich einen Überblick über alle im System bearbeiteten "
-"Reklamationen, indem Sie sie nach bestimmten Kriterien sortieren."
+"الحصول على نظرة عامة على جميع المطالبات التي تمت معالجتها في النظام من خلال "
+"فرزها بمعايير محددة."
 
 #. module: crm_claim
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim__priority__2
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim_report__priority__2
 msgid "High"
-msgstr "Hoch"
+msgstr "عالية"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__id
@@ -397,32 +395,28 @@ msgstr "Hoch"
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__id
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__id
 msgid "ID"
-msgstr "ID"
+msgstr "المعرف"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_exception_icon
 msgid "Icon"
-msgstr "Symbol"
+msgstr "أيقونة"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__activity_exception_icon
 msgid "Icon to indicate an exception activity."
-msgstr "Symbol zur Kennzeichnung einer Ausnahmeaktivität."
+msgstr "أيقونة للإشارة إلى نشاط استثناء."
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__message_needaction
 msgid "If checked, new messages require your attention."
-msgstr ""
-"Wenn dieses Kontrollkästchen aktiviert ist, erfordern neue Nachrichten eine "
-"Aktion ihrerseits."
+msgstr "إذا تم التحقق، فإن الرسائل الجديدة تتطلب اهتمامك."
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__message_has_error
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__message_has_sms_error
 msgid "If checked, some messages have a delivery error."
-msgstr ""
-"Wenn dieses Kontrollkästchen aktiviert ist, weisen einige Nachrichten einen "
-"Zustellungsfehler auf."
+msgstr "في حالة التحقق، يوجد خطأ في تسليم بعض الرسائل."
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim_stage__case_default
@@ -430,19 +424,18 @@ msgid ""
 "If you check this field, this stage will be proposed by default on each "
 "sales team. It will not assign this stage to existing teams."
 msgstr ""
-"Wenn Sie dieses Feld markieren, wird dieses Stadium standardmäßig für jedes "
-"Verkaufsteam vorgeschlagen. Bestehenden Teams wird dieses Stadium nicht "
-"zugewiesen."
+"إذا قمت بتحديد هذا الحقل، سيتم اقتراح هذه المرحلة بشكل افتراضي على كل فريق "
+"مبيعات. لن يتم تعيين هذه المرحلة للفرق الحالية."
 
 #. module: crm_claim
 #: model:crm.claim.stage,name:crm_claim.stage_claim5
 msgid "In Progress"
-msgstr "In Arbeit"
+msgstr "قيد التنفيذ"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_is_follower
 msgid "Is Follower"
-msgstr "Ist Follower"
+msgstr "المتابع"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim____last_update
@@ -450,20 +443,20 @@ msgstr "Ist Follower"
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report____last_update
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage____last_update
 msgid "Last Modified on"
-msgstr "Zuletzt bearbeitet am"
+msgstr "آخر تعديل في"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__write_uid
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_category__write_uid
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__write_uid
 msgid "Last Updated by"
-msgstr "Zuletzt aktualisiert von"
+msgstr "آخر تحديث بواسطة"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_category__write_date
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__write_date
 msgid "Last Updated on"
-msgstr "Zuletzt aktualisiert am"
+msgstr "آخر تحديث في"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim_stage__team_ids
@@ -471,128 +464,127 @@ msgid ""
 "Link between stages and sales teams. When set, this limitate the current "
 "stage to the selected sales teams."
 msgstr ""
-"Verbindung zwischen Stadien und Verkaufsteams. Wenn diese Option aktiviert "
-"ist, wird das aktuelle Stadium auf die ausgewählten Verkaufsteams "
-"beschränkt."
+"الربط بين المراحل وفرق المبيعات. عند تعيينها، فإن هذا يقصر المرحلة الحالية "
+"على فرق المبيعات المحددة."
 
 #. module: crm_claim
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim__priority__0
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim_report__priority__0
 msgid "Low"
-msgstr "Niedrig"
+msgstr "منخفض"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_main_attachment_id
 msgid "Main Attachment"
-msgstr "Hauptanhang"
+msgstr "المرفق الرئيسي"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_has_error
 msgid "Message Delivery error"
-msgstr "Übermittlungsfehler"
+msgstr "خطأ في تسليم الرسائل"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_ids
 msgid "Messages"
-msgstr "Nachrichten"
+msgstr "الرسائل"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__model_ref_id
 msgid "Model Reference"
-msgstr "Bezieht sich auf"
+msgstr "مرجع النموذج"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Month of claim"
-msgstr "Monat der Reklamation"
+msgstr "شهر المطالبة"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__my_activity_date_deadline
 msgid "My Activity Deadline"
-msgstr "Meine Aktivität Deadline"
+msgstr "الموعد النهائي لنشاطي"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "My Company"
-msgstr "Mein Unternehmen"
+msgstr "شركتي"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "My Sales Team(s)"
-msgstr "Mein Verkaufsteam"
+msgstr "فريق (فريقي) المبيعات"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_category__name
 msgid "Name"
-msgstr "Name"
+msgstr "الاسم"
 
 #. module: crm_claim
 #: model:crm.claim.stage,name:crm_claim.stage_claim1
 msgid "New"
-msgstr "Neu"
+msgstr "الجديد"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_calendar_event_id
 msgid "Next Activity Calendar Event"
-msgstr "Nächstes Aktivitätskalender-Ereignis"
+msgstr "حدث تقويم النشاط التالي"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_date_deadline
 msgid "Next Activity Deadline"
-msgstr "Frist der nächsten Aktivität"
+msgstr "الموعد النهائي للنشاط التالي"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_summary
 msgid "Next Activity Summary"
-msgstr "Zusammenfassung der nächsten Aktivität"
+msgstr "ملخص النشاط التالي"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_type_id
 msgid "Next Activity Type"
-msgstr "Typ der nächsten Aktivität"
+msgstr "نوع النشاط التالي"
 
 #. module: crm_claim
 #. odoo-python
 #: code:addons/crm_claim/models/crm_claim.py:0
 #, python-format
 msgid "No Subject"
-msgstr "Kein Betreff"
+msgstr "لا يوجد موضوع"
 
 #. module: crm_claim
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim__priority__1
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim_report__priority__1
 msgid "Normal"
-msgstr "Normal"
+msgstr "عادي"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_needaction_counter
 msgid "Number of Actions"
-msgstr "Anzahl Aktionen"
+msgstr "عدد الإجراءات"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim_report__delay_close
 msgid "Number of Days to close the case"
-msgstr "Anzahl Tage bis zum Abschluss"
+msgstr "عدد الأيام اللازمة لإغلاق القضية"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_has_error_counter
 msgid "Number of errors"
-msgstr "Anzahl Errors"
+msgstr "عدد الأخطاء"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__message_needaction_counter
 msgid "Number of messages requiring action"
-msgstr "Anzahl der Nachrichten mit Handlungsbedarf"
+msgstr "عدد الرسائل التي تتطلب اتخاذ إجراء"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__message_has_error_counter
 msgid "Number of messages with delivery error"
-msgstr "Anzahl Nachrichten mit Übermittlungsfehler"
+msgstr "عدد الرسائل التي بها خطأ في التسليم"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__delay_expected
 msgid "Overpassed Deadline"
-msgstr "Verstrichene Frist"
+msgstr "تجاوز الموعد النهائي"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__partner_id
@@ -601,34 +593,34 @@ msgstr "Verstrichene Frist"
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Partner"
-msgstr "Partner"
+msgstr "الشريك"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__partner_phone
 msgid "Phone"
-msgstr "Telefon"
+msgstr "الهاتف"
 
 #. module: crm_claim
 #: model:crm.claim.category,name:crm_claim.categ_claim3
 msgid "Policy Claims"
-msgstr "Policen-Reklamationen"
+msgstr "مطالبات السياسة"
 
 #. module: crm_claim
 #: model:utm.campaign,title:crm_claim.claim_source2
 msgid "Preventive"
-msgstr "Präventiv"
+msgstr "وقائي"
 
 #. module: crm_claim
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim__type_action__prevention
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim_report__type_action__prevention
 msgid "Preventive Action"
-msgstr "Präventive Aktion"
+msgstr "العمل الوقائي"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__priority
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__priority
 msgid "Priority"
-msgstr "Priorität"
+msgstr "الأولوية"
 
 #. module: crm_claim
 #: model_terms:ir.actions.act_window,help:crm_claim.crm_claim_category_claim0
@@ -638,42 +630,42 @@ msgid ""
 "                You can send emails with attachments and keep the full history for a claim (emails sent, intervention type and so on).\n"
 "                Claims may automatically be linked to an email address using the mail gateway module."
 msgstr ""
-"Erfassen und verfolgen Sie die Reklamationen Ihrer Kunden.\n"
-"                Reklamationen können mit einem Kundenauftrag oder einer Partie verknüpft werden.\n"
-"                Sie können E-Mails mit Anhängen versenden und die gesamte Historie einer Reklamation aufbewahren (gesendete E-Mails, Art der Intervention usw.).\n"
-"                Reklamationen können mit Hilfe des Mail-Gateway-Moduls automatisch mit einer E-Mail-Adresse verknüpft werden."
+"تسجيل مطالبات العملاء وتتبعها.\n"
+"                قد تكون المطالبات مرتبطة بأمر بيع أو قطعة أرض.\n"
+"                يمكنك إرسال رسائل البريد الإلكتروني مع المرفقات والاحتفاظ بالسجل الكامل للمطالبة (رسائل البريد الإلكتروني المرسلة ونوع التدخل وما إلى ذلك).\n"
+"                يمكن ربط المطالبات تلقائياً بعنوان بريد إلكتروني باستخدام وحدة بوابة البريد الإلكتروني."
 
 #. module: crm_claim
 #: model:crm.claim.stage,name:crm_claim.stage_claim3
 msgid "Rejected"
-msgstr "Abgelehnt"
+msgstr "مرفوض"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__resolution
 msgid "Resolution"
-msgstr "Lösung"
+msgstr "القرار"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Resolution Actions"
-msgstr "Lösungsaktionen"
+msgstr "إجراءات القرار"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Responsibilities"
-msgstr "Verantwortlichkeiten"
+msgstr "المسؤوليات"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__user_id
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Responsible"
-msgstr "Verantwortlich"
+msgstr "مسؤول"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_user_id
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Responsible User"
-msgstr "Verantwortlicher Benutzer"
+msgstr "المستخدم المسؤول"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__team_id
@@ -681,55 +673,55 @@ msgid ""
 "Responsible sales team. Define Responsible user and Email account for mail "
 "gateway."
 msgstr ""
-"Verantwortliches Verkaufsteam. Definieren Sie den zuständigen Benutzer und "
-"das E-Mail-Konto für das Mail-Gateway."
+"فريق المبيعات المسؤول. تحديد المستخدم المسؤول وحساب البريد الإلكتروني لبوابة"
+" البريد."
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__cause
 msgid "Root Cause"
-msgstr "Grundursache"
+msgstr "السبب الجذري"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Root Causes"
-msgstr "Grundursachen"
+msgstr "الأسباب الجذرية"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_has_sms_error
 msgid "SMS Delivery error"
-msgstr "SMS Zustellungsfehler"
+msgstr "خطأ في توصيل الرسائل النصية القصيرة"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__team_id
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_category__team_id
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Sales Team"
-msgstr "Verkaufsteam"
+msgstr "فريق المبيعات"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Salesperson"
-msgstr "Verkäufer"
+msgstr "مندوب مبيعات"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Search"
-msgstr "Suche"
+msgstr "البحث"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Search Claims"
-msgstr "Suche nach Reklamationen"
+msgstr "مطالبات البحث"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__sequence
 msgid "Sequence"
-msgstr "Sequenz"
+msgstr "التسلسل"
 
 #. module: crm_claim
 #: model:crm.claim.stage,name:crm_claim.stage_claim2
 msgid "Settled"
-msgstr "Erledigt"
+msgstr "تمت التسوية"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__stage_id
@@ -737,17 +729,17 @@ msgstr "Erledigt"
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Stage"
-msgstr "Stadium"
+msgstr "المرحلة"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__name
 msgid "Stage Name"
-msgstr "Name des Stadiums"
+msgstr "اسم المرحلة"
 
 #. module: crm_claim
 #: model:ir.ui.menu,name:crm_claim.menu_claim_stage_view
 msgid "Stages"
-msgstr "Stadien"
+msgstr "المراحل"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__activity_state
@@ -757,20 +749,20 @@ msgid ""
 "Today: Activity date is today\n"
 "Planned: Future activities."
 msgstr ""
-"Status basierend auf Aktivitäten\n"
-"Überfällig: Fälligkeitsdatum ist bereits überschritten\n"
-"Heute: Aktivitätsdatum ist heute\n"
-"Geplant: Zukünftige Aktivitäten."
+"الحالة بناءً على الأنشطة\n"
+"متأخرة: انقضى تاريخ الاستحقاق بالفعل\n"
+"اليوم: تاريخ النشاط هو اليوم\n"
+"مخطط له: الأنشطة المستقبلية."
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__team_id
 msgid "Team"
-msgstr "Team"
+msgstr "فريق العمل"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__team_ids
 msgid "Teams"
-msgstr "Teams"
+msgstr "فرق العمل"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__email_cc
@@ -779,65 +771,65 @@ msgid ""
 "outbound emails for this record before being sent. Separate multiple email "
 "addresses with a comma"
 msgstr ""
-"Diese E-Mail-Adressen werden dem CC-Feld aller ein- und ausgehenden E-Mails "
-"für diesen Datensatz hinzugefügt, bevor sie gesendet werden. Trennen Sie "
-"mehrere E-Mail-Adressen mit einem Komma"
+"ستتم إضافة عناوين البريد الإلكتروني هذه إلى حقل CC في جميع رسائل البريد "
+"الإلكتروني الواردة والصادرة لهذا السجل قبل إرسالها. افصل بين عناوين البريد "
+"الإلكتروني المتعددة بفاصلة"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__user_fault
 msgid "Trouble Responsible"
-msgstr "Verantworlich für Probleme"
+msgstr "مسؤول عن المشاكل"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_tree_view
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Type"
-msgstr "Typ"
+msgstr "النوع"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__activity_exception_decoration
 msgid "Type of the exception activity on record."
-msgstr "Art der Ausnahmeaktivität des Datensatzes."
+msgstr "نوع نشاط الاستثناء المسجل."
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Unassigned Claims"
-msgstr "Nicht zugewiesene Reklamationen"
+msgstr "المطالبات غير المخصصة"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__write_date
 msgid "Update Date"
-msgstr "Aktualisierungsdatum"
+msgstr "تاريخ التحديث"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim_stage__sequence
 msgid "Used to order stages. Lower is better."
-msgstr "Wird verwendet, um Stadien zu sortieren. Niedriger ist besser."
+msgstr "تستخدم لطلب المراحل. الأقل هو الأفضل."
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__user_id
 msgid "User"
-msgstr "Benutzer"
+msgstr "المستخدم"
 
 #. module: crm_claim
 #: model:crm.claim.category,name:crm_claim.categ_claim2
 msgid "Value Claims"
-msgstr "Wertreklamationen"
+msgstr "مطالبات القيمة"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__email_cc
 msgid "Watchers Emails"
-msgstr "Beobachter-E-Mails"
+msgstr "رسائل البريد الإلكتروني للمشاهدين"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__website_message_ids
 msgid "Website Messages"
-msgstr "Website-Nachrichten"
+msgstr "رسائل الموقع الإلكتروني"
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__website_message_ids
 msgid "Website communication history"
-msgstr "Geschichte der Website-Kommunikation"
+msgstr "تاريخ التواصل عبر الموقع الإلكتروني"
 
 #. module: crm_claim
 #: model_terms:ir.actions.act_window,help:crm_claim.crm_claim_stage_act
@@ -846,6 +838,6 @@ msgid ""
 "            claim entered in the system. The stages define all the steps\n"
 "            required for the resolution of a claim."
 msgstr ""
-"Sie können Stadien für Reklamationen anlegen, um den Status der einzelnen\n"
-"            Reklamation im System zu kategorisieren. Die Stadien definieren alle Schritte, die\n"
-"            für die Lösung einer Reklamation erforderlich sind."
+"يمكنك إنشاء مراحل مطالبة لتصنيف حالة كل مطالبة\n"
+"            مطالبة تم إدخالها في النظام. تحدد المراحل جميع الخطوات\n"
+"            المطلوبة لتسوية المطالبة."

@@ -6,15 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2023-09-04 18:36+0000\n"
-"Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
-"Language-Team: none\n"
-"Language: it\n"
+"POT-Creation-Date: 2025-02-14 19:14+0000\n"
+"PO-Revision-Date: 2025-02-14 19:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.17\n"
+"Plural-Forms: \n"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_res_partner__claim_count
@@ -119,7 +118,7 @@ msgstr "Categoria reclamo"
 #: model:ir.ui.menu,name:crm_claim.menu_config_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Claim"
-msgstr "Reclamo"
+msgstr "Richiesta"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,name:crm_claim.crm_claim_categ_action
@@ -172,7 +171,7 @@ msgstr "Oggetto reclamo"
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_crm_claim_stage
 msgid "Claim stages"
-msgstr "Fasi reclamo"
+msgstr "Fasi delle richieste"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
@@ -205,7 +204,8 @@ msgstr "Fare clic per creare una categoria per i reclami."
 #. module: crm_claim
 #: model_terms:ir.actions.act_window,help:crm_claim.crm_claim_stage_act
 msgid "Click to setup a new stage in the processing of the claims."
-msgstr "Fare clic per impostare una nuova fase per l'elaborazione dei reclami."
+msgstr ""
+"Fare clic per impostare una nuova fase per l'elaborazione dei reclami."
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__date_closed
@@ -415,6 +415,7 @@ msgstr "Se selezionata, nuovi messaggi richiedono attenzione."
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__message_has_error
+#: model:ir.model.fields,help:crm_claim.field_crm_claim__message_has_sms_error
 msgid "If checked, some messages have a delivery error."
 msgstr "Se selezionata, alcuni messaggi hanno un errore di consegna."
 
@@ -627,18 +628,13 @@ msgstr "Priorità"
 msgid ""
 "Record and track your customers' claims.\n"
 "                Claims may be linked to a sales order or a lot.\n"
-"                You can send emails with attachments and keep the full "
-"history for a claim (emails sent, intervention type and so on).\n"
-"                Claims may automatically be linked to an email address using "
-"the mail gateway module."
+"                You can send emails with attachments and keep the full history for a claim (emails sent, intervention type and so on).\n"
+"                Claims may automatically be linked to an email address using the mail gateway module."
 msgstr ""
 "Registra e tiene traccia dei reclami dei clienti,\n"
-"                che possono essere collegate a un ordine di vendita o a un "
-"lotto.\n"
-"                È possibile inviare e-mail con allegati mantenendo l'intera "
-"cronologia di un reclamo (e-mail inviate, tipo di intervento e così via).\n"
-"                I reclami possono essere automaticamente collegate a un "
-"indirizzo e-mail utilizzando il modulo per il gateway di posta."
+"                che possono essere collegate a un ordine di vendita o a un lotto.\n"
+"                È possibile inviare e-mail con allegati mantenendo l'intera cronologia di un reclamo (e-mail inviate, tipo di intervento e così via).\n"
+"                I reclami possono essere automaticamente collegate a un indirizzo e-mail utilizzando il modulo per il gateway di posta."
 
 #. module: crm_claim
 #: model:crm.claim.stage,name:crm_claim.stage_claim3
@@ -690,6 +686,11 @@ msgstr "Causa radice"
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Root Causes"
 msgstr "Cause radice"
+
+#. module: crm_claim
+#: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_has_sms_error
+msgid "SMS Delivery error"
+msgstr "Errore consegna SMS"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__team_id
@@ -757,7 +758,7 @@ msgstr ""
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__team_id
 msgid "Team"
-msgstr "Team"
+msgstr "Il team"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__team_ids
@@ -839,12 +840,5 @@ msgid ""
 "            required for the resolution of a claim."
 msgstr ""
 "Si possono creare fasi dei reclami per classificare lo stato di ogni\n"
-"                reclamo inserito nel sistema. Le fasi definiscono tutti i "
-"passi richiesti\n"
+"                reclamo inserito nel sistema. Le fasi definiscono tutti i passi richiesti\n"
 "                per la soluzione di un reclamo."
-
-#~ msgid "SMS Delivery error"
-#~ msgstr "Errore consegna SMS"
-
-#~ msgid "Number of messages which requires an action"
-#~ msgstr "Numero di messaggi che richiedono un'azione"
