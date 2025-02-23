@@ -4,16 +4,17 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Odoo Server 13.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-14 19:14+0000\n"
-"PO-Revision-Date: 2025-02-14 19:14+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2021-11-19 15:02+0000\n"
+"Last-Translator: Corneliuus <cornelius@clk-it.de>\n"
+"Language-Team: none\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.3.2\n"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_res_partner__claim_count
@@ -77,7 +78,7 @@ msgstr "Aktivitätsstatus"
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_type_icon
 msgid "Activity Type Icon"
-msgstr "Aktivitätstyp-Symbol"
+msgstr ""
 
 #. module: crm_claim
 #: model:ir.ui.menu,name:crm_claim.menu_aftersale
@@ -118,7 +119,7 @@ msgstr "Kategorie der Reklamation"
 #: model:ir.ui.menu,name:crm_claim.menu_config_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Claim"
-msgstr "Forderung"
+msgstr "Reklamation"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,name:crm_claim.crm_claim_categ_action
@@ -171,7 +172,7 @@ msgstr "Betreff der Reklamation"
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_crm_claim_stage
 msgid "Claim stages"
-msgstr "Forderungsstufen"
+msgstr "Reklamationsstadien"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
@@ -263,9 +264,6 @@ msgid ""
 "            claims. Some examples of claims can be: preventive action,\n"
 "            corrective action."
 msgstr ""
-"Erstellen Sie Anspruchskategorien zur besseren Verwaltung und Klassifizierung Ihrer\n"
-"            Ansprüche. Einige Beispiele für Ansprüche können sein: Vorbeugende Maßnahmen,\n"
-"            korrigierende Maßnahmen."
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__create_uid
@@ -363,7 +361,7 @@ msgstr "Abonnenten (Partner)"
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__activity_type_icon
 msgid "Font awesome icon e.g. fa-tasks"
-msgstr "Font awesome icon z.B. fa-tasks"
+msgstr ""
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
@@ -374,7 +372,7 @@ msgstr "Gruppieren nach"
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__has_message
 msgid "Has Message"
-msgstr "Hat Nachricht"
+msgstr ""
 
 #. module: crm_claim
 #: model_terms:ir.actions.act_window,help:crm_claim.action_report_crm_claim
@@ -418,7 +416,6 @@ msgstr ""
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__message_has_error
-#: model:ir.model.fields,help:crm_claim.field_crm_claim__message_has_sms_error
 msgid "If checked, some messages have a delivery error."
 msgstr ""
 "Wenn dieses Kontrollkästchen aktiviert ist, weisen einige Nachrichten einen "
@@ -472,8 +469,7 @@ msgid ""
 "stage to the selected sales teams."
 msgstr ""
 "Verbindung zwischen Stadien und Verkaufsteams. Wenn diese Option aktiviert "
-"ist, wird das aktuelle Stadium auf die ausgewählten Verkaufsteams "
-"beschränkt."
+"ist, wird das aktuelle Stadium auf die ausgewählten Verkaufsteams beschränkt."
 
 #. module: crm_claim
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim__priority__0
@@ -509,7 +505,7 @@ msgstr "Monat der Reklamation"
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__my_activity_date_deadline
 msgid "My Activity Deadline"
-msgstr "Meine Aktivität Deadline"
+msgstr ""
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
@@ -534,7 +530,7 @@ msgstr "Neu"
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_calendar_event_id
 msgid "Next Activity Calendar Event"
-msgstr "Nächstes Aktivitätskalender-Ereignis"
+msgstr ""
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__activity_date_deadline
@@ -582,7 +578,7 @@ msgstr "Anzahl Errors"
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__message_needaction_counter
 msgid "Number of messages requiring action"
-msgstr "Anzahl der Nachrichten mit Handlungsbedarf"
+msgstr ""
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__message_has_error_counter
@@ -635,13 +631,19 @@ msgstr "Priorität"
 msgid ""
 "Record and track your customers' claims.\n"
 "                Claims may be linked to a sales order or a lot.\n"
-"                You can send emails with attachments and keep the full history for a claim (emails sent, intervention type and so on).\n"
-"                Claims may automatically be linked to an email address using the mail gateway module."
+"                You can send emails with attachments and keep the full "
+"history for a claim (emails sent, intervention type and so on).\n"
+"                Claims may automatically be linked to an email address using "
+"the mail gateway module."
 msgstr ""
 "Erfassen und verfolgen Sie die Reklamationen Ihrer Kunden.\n"
-"                Reklamationen können mit einem Kundenauftrag oder einer Partie verknüpft werden.\n"
-"                Sie können E-Mails mit Anhängen versenden und die gesamte Historie einer Reklamation aufbewahren (gesendete E-Mails, Art der Intervention usw.).\n"
-"                Reklamationen können mit Hilfe des Mail-Gateway-Moduls automatisch mit einer E-Mail-Adresse verknüpft werden."
+"                Reklamationen können mit einem Kundenauftrag oder einer "
+"Partie verknüpft werden.\n"
+"                Sie können E-Mails mit Anhängen versenden und die gesamte "
+"Historie einer Reklamation aufbewahren (gesendete E-Mails, Art der "
+"Intervention usw.).\n"
+"                Reklamationen können mit Hilfe des Mail-Gateway-Moduls "
+"automatisch mit einer E-Mail-Adresse verknüpft werden."
 
 #. module: crm_claim
 #: model:crm.claim.stage,name:crm_claim.stage_claim3
@@ -693,11 +695,6 @@ msgstr "Grundursache"
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Root Causes"
 msgstr "Grundursachen"
-
-#. module: crm_claim
-#: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_has_sms_error
-msgid "SMS Delivery error"
-msgstr "SMS Zustellungsfehler"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__team_id
@@ -847,5 +844,40 @@ msgid ""
 "            required for the resolution of a claim."
 msgstr ""
 "Sie können Stadien für Reklamationen anlegen, um den Status der einzelnen\n"
-"            Reklamation im System zu kategorisieren. Die Stadien definieren alle Schritte, die\n"
+"            Reklamation im System zu kategorisieren. Die Stadien definieren "
+"alle Schritte, die\n"
 "            für die Lösung einer Reklamation erforderlich sind."
+
+#~ msgid "SMS Delivery error"
+#~ msgstr "SMS Zustellfehler"
+
+#~ msgid "Number of messages which requires an action"
+#~ msgstr "Anzahl Nachrichten, die eine Aktion erfordern"
+
+#~ msgid "Number of unread messages"
+#~ msgstr "Anzahl der ungelesenen Nachrichten"
+
+#~ msgid "Unread Messages"
+#~ msgstr "Ungelesene Nachrichten"
+
+#~ msgid "Unread Messages Counter"
+#~ msgstr "Anzahl ungelesener Nachrichten"
+
+#~ msgid "Workload"
+#~ msgstr "Arbeitsaufwand"
+
+#~ msgid "Actions"
+#~ msgstr "Aktionen"
+
+#~ msgid ""
+#~ "Create claim categories to better manage and classify your\n"
+#~ "            claims. Some example of claims can be: preventive action,\n"
+#~ "            corrective action."
+#~ msgstr ""
+#~ "Legen Sie Reklamationskategorien an, um Ihre Reklamationen\n"
+#~ "            besser verwalten und klassifizieren zu können. Beispiele für\n"
+#~ "            Reklamationskategorien: präventive Maßnahmen, korrektive "
+#~ "Maßnahmen."
+
+#~ msgid "Followers (Channels)"
+#~ msgstr "Abonnenten (Kanäle)"

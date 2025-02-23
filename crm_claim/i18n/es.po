@@ -1,19 +1,24 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* crm_claim
+# * crm_claim
 #
+# Translators:
+# OCA Transbot <transbot@odoo-community.org>, 2017
+# Pedro M. Baeza <pedro.baeza@gmail.com>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0\n"
+"Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-14 19:14+0000\n"
-"PO-Revision-Date: 2025-02-14 19:14+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"POT-Creation-Date: 2022-09-06 08:33+0000\n"
+"PO-Revision-Date: 2023-10-29 07:04+0000\n"
+"Last-Translator: kikopeiro <francisco.peiro@factorlibre.com>\n"
+"Language-Team: Spanish (https://www.transifex.com/oca/teams/23907/es/)\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.17\n"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_res_partner__claim_count
@@ -171,7 +176,7 @@ msgstr "Asunto de la reclamación"
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_crm_claim_stage
 msgid "Claim stages"
-msgstr "Estados de las reclamaciones"
+msgstr "Etapas de la reclamación"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
@@ -264,7 +269,8 @@ msgid ""
 "            corrective action."
 msgstr ""
 "Creeu categories de reclamació per gestionar i classificar millor el vostre\n"
-"             reclamacions. Alguns exemples de reclamacions poden ser: acció preventiva,\n"
+"             reclamacions. Alguns exemples de reclamacions poden ser: acció "
+"preventiva,\n"
 "             acció correctiva."
 
 #. module: crm_claim
@@ -333,7 +339,7 @@ msgstr "Nombre para mostrar"
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__email_from
 msgid "Email"
-msgstr "Envíe un correo electrónico a"
+msgstr "Email"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
@@ -416,7 +422,6 @@ msgstr "Si está marcado, hay nuevos mensajes que requieren su atención."
 
 #. module: crm_claim
 #: model:ir.model.fields,help:crm_claim.field_crm_claim__message_has_error
-#: model:ir.model.fields,help:crm_claim.field_crm_claim__message_has_sms_error
 msgid "If checked, some messages have a delivery error."
 msgstr "Si está marcado, algún mensaje tiene error de envío."
 
@@ -629,13 +634,19 @@ msgstr "Prioridad"
 msgid ""
 "Record and track your customers' claims.\n"
 "                Claims may be linked to a sales order or a lot.\n"
-"                You can send emails with attachments and keep the full history for a claim (emails sent, intervention type and so on).\n"
-"                Claims may automatically be linked to an email address using the mail gateway module."
+"                You can send emails with attachments and keep the full "
+"history for a claim (emails sent, intervention type and so on).\n"
+"                Claims may automatically be linked to an email address using "
+"the mail gateway module."
 msgstr ""
 "Registre y realice el seguimiento de las reclamaciones de sus clientes.\n"
-"                Las reclamaciones pueden estar vinculadas a un pedido de venta o a un lote.\n"
-"                Puede enviar correos electrónicos con archivos adjuntos y conservar el historial completo de una reclamación (correos electrónicos enviados, tipo de intervención, etc.).\n"
-"                Las reclamaciones pueden vincularse automáticamente a una dirección de correo electrónico mediante el módulo de pasarela de correo."
+"                Las reclamaciones pueden estar vinculadas a un pedido de "
+"venta o a un lote.\n"
+"                Puede enviar correos electrónicos con archivos adjuntos y "
+"conservar el historial completo de una reclamación (correos electrónicos "
+"enviados, tipo de intervención, etc.).\n"
+"                Las reclamaciones pueden vincularse automáticamente a una "
+"dirección de correo electrónico mediante el módulo de pasarela de correo."
 
 #. module: crm_claim
 #: model:crm.claim.stage,name:crm_claim.stage_claim3
@@ -687,11 +698,6 @@ msgstr "Causa principal"
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Root Causes"
 msgstr "Causas principales"
-
-#. module: crm_claim
-#: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_has_sms_error
-msgid "SMS Delivery error"
-msgstr "Error de entrega de SMS"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__team_id
@@ -774,8 +780,8 @@ msgid ""
 "addresses with a comma"
 msgstr ""
 "Estas direcciones de correo serán añadidas al campo CC para todos los "
-"correos entrantes y salientes de este registro antes de ser enviados. Separe"
-" las diferentes direcciones de correo con una coma"
+"correos entrantes y salientes de este registro antes de ser enviados. Separe "
+"las diferentes direcciones de correo con una coma"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__user_fault
@@ -841,5 +847,36 @@ msgid ""
 "            required for the resolution of a claim."
 msgstr ""
 "Puede crear etapas de reclamación para categorizar el estado de cada\n"
-"            reclamación introducida en el sistema. Las etapas definen todos los pasos\n"
+"            reclamación introducida en el sistema. Las etapas definen todos "
+"los pasos\n"
 "            necesarios para la resolución de una reclamación."
+
+#~ msgid "SMS Delivery error"
+#~ msgstr "Error de entrega de SMS"
+
+#~ msgid "Number of messages which requires an action"
+#~ msgstr "Número de mensajes que requieren una acción"
+
+#~ msgid "Number of unread messages"
+#~ msgstr "Número de mensajes no leídos"
+
+#~ msgid "Unread Messages"
+#~ msgstr "Mensajes no leídos"
+
+#~ msgid "Unread Messages Counter"
+#~ msgstr "Contador de mensajes no leídos"
+
+#~ msgid "Workload"
+#~ msgstr "Carga de trabajo"
+
+#~ msgid ""
+#~ "Create claim categories to better manage and classify your\n"
+#~ "            claims. Some example of claims can be: preventive action,\n"
+#~ "            corrective action."
+#~ msgstr ""
+#~ "Cree categorías de reclamaciones para gestionar y clasificar mejor sus "
+#~ "reclamaciones. Algunos ejemplos de reclamaciones pueden ser: acción "
+#~ "preventiva, acción correctiva."
+
+#~ msgid "Followers (Channels)"
+#~ msgstr "Seguidores (Canales)"
