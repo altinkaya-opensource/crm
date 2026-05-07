@@ -43,9 +43,11 @@ addon | version | maintainers | summary
 [crm_project_task](crm_project_task/) | 16.0.1.0.2 | <a href='https://github.com/EmilioPascual'><img src='https://github.com/EmilioPascual.png' width='32' height='32' style='border-radius:50%;' alt='EmilioPascual'/></a> | Create tasks from lead or opportunity
 [crm_salesperson_planner](crm_salesperson_planner/) | 16.0.2.0.2 |  | Crm Salesperson Planner
 [crm_salesperson_planner_sale](crm_salesperson_planner_sale/) | 16.0.1.0.0 |  | Crm Salesperson Planner Sale
-[crm_security_group](crm_security_group/) | 16.0.1.1.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Add new group in Sales to show only CRM
-[crm_stage_multi_team](crm_stage_multi_team/) | 16.0.1.0.0 |  | Allows multiple teams in crm stage
+[crm_security_group](crm_security_group/) | 16.0.1.2.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Add new group in Sales to show only CRM
+[crm_stage_mail](crm_stage_mail/) | 16.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Crm Stage Mail
+[crm_stage_multi_team](crm_stage_multi_team/) | 16.0.1.0.1 |  | Allows multiple teams in crm stage
 [crm_stage_probability](crm_stage_probability/) | 16.0.1.0.0 |  | Define fixed probability on the stages
+[crm_team_zip_assign](crm_team_zip_assign/) | 16.0.1.0.0 |  | Auto-assign CRM teams to partners based on ZIP code patterns
 [crm_won_restrict_per_stage](crm_won_restrict_per_stage/) | 16.0.1.0.1 | <a href='https://github.com/carolinafernandez-tecnativa'><img src='https://github.com/carolinafernandez-tecnativa.png' width='32' height='32' style='border-radius:50%;' alt='carolinafernandez-tecnativa'/></a> | CRM Won Restrict Per Stage
 [marketing_crm_partner](marketing_crm_partner/) | 16.0.1.0.0 |  | Copy tracking fields from leads to partners
 
