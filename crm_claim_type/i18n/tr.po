@@ -32,7 +32,7 @@ msgstr "Etkinlik"
 #. module: crm_claim_type
 #: model:ir.model,name:crm_claim_type.model_crm_claim
 msgid "Claim"
-msgstr ""
+msgstr "Şikayet"
 
 #. module: crm_claim_type
 #: model:ir.model,name:crm_claim_type.model_crm_claim_type
@@ -40,13 +40,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:crm_claim_type.field_crm_claim_stage__claim_type
 #: model_terms:ir.ui.view,arch_db:crm_claim_type.crm_stage_claim_type_search
 msgid "Claim Type"
-msgstr ""
+msgstr "Şikayet Tipi"
 
 #. module: crm_claim_type
 #: model:ir.actions.act_window,name:crm_claim_type.crm_claim_type_act
 #: model:ir.ui.menu,name:crm_claim_type.menu_crm_claim_type_act
 msgid "Claim Types"
-msgstr ""
+msgstr "Şikayet Tipleri"
 
 #. module: crm_claim_type
 #: model:ir.model.fields,help:crm_claim_type.field_crm_claim__claim_type

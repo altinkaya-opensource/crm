@@ -19,12 +19,12 @@ msgstr ""
 #. module: crm_claim_code
 #: model:ir.model,name:crm_claim_code.model_crm_claim
 msgid "Claim"
-msgstr "Talep"
+msgstr "Şikayet"
 
 #. module: crm_claim_code
 #: model:ir.model.fields,field_description:crm_claim_code.field_crm_claim__code
 msgid "Claim Number"
-msgstr "Talep Numarası"
+msgstr "Şikayet Numarası"
 
 #. module: crm_claim_code
 #: model:ir.model.constraint,message:crm_claim_code.constraint_crm_claim_crm_claim_unique_code
