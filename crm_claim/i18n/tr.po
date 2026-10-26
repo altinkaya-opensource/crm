@@ -20,7 +20,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:crm_claim.field_res_partner__claim_count
 #: model:ir.model.fields,field_description:crm_claim.field_res_users__claim_count
 msgid "# Claims"
-msgstr "# Talepler"
+msgstr "# Şikayetler"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__email
@@ -30,7 +30,7 @@ msgstr "# Email"
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__nbr_claims
 msgid "# of Claims"
-msgstr "# tane Talep"
+msgstr "# tane Şikayet"
 
 #. module: crm_claim
 #. odoo-python
@@ -93,7 +93,7 @@ msgstr "Ek Sayısı"
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_crm_claim_report
 msgid "CRM Claim Report"
-msgstr "CRM Talep Raporu"
+msgstr "CRM Şikayet Raporu"
 
 #. module: crm_claim
 #: model:ir.ui.menu,name:crm_claim.menu_crm_case_claim-act
@@ -110,7 +110,7 @@ msgstr "Kategori"
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_crm_claim_category
 msgid "Category of claim"
-msgstr "Talep kategorisi"
+msgstr "Şikayet kategorisi"
 
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_crm_claim
@@ -119,65 +119,65 @@ msgstr "Talep kategorisi"
 #: model:ir.ui.menu,name:crm_claim.menu_config_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Claim"
-msgstr "Talep"
+msgstr "Şikayet"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,name:crm_claim.crm_claim_categ_action
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_claim_category_form
 msgid "Claim Categories"
-msgstr "Talep Kategorileri"
+msgstr "Şikayet Kategorileri"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__date
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__claim_date
 msgid "Claim Date"
-msgstr "Talep Tarihi"
+msgstr "Şikayet Tarihi"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Claim Date by Month"
-msgstr "Aya Göre Talep Tarihi"
+msgstr "Aya Göre Şikayet Tarihi"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Claim Description"
-msgstr "Talep Açıklaması"
+msgstr "Şikayet Açıklaması"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Claim Month"
-msgstr "Talep Ayı"
+msgstr "Şikayet Ayı"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Claim Reporter"
-msgstr "Talep Bildiren"
+msgstr "Şikayet Bildiren"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_claim_stage_form
 msgid "Claim Stage"
-msgstr "Talep Aşaması"
+msgstr "Şikayet Aşaması"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,name:crm_claim.crm_claim_stage_act
 msgid "Claim Stages"
-msgstr "Talep Aşamaları"
+msgstr "Şikayet Aşamaları"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__name
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__subject
 msgid "Claim Subject"
-msgstr "Talep Konusu"
+msgstr "Şikayet Konusu"
 
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_crm_claim_stage
 msgid "Claim stages"
-msgstr "Talep aşamaları"
+msgstr "Şikayet aşamaları"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Claim/Action Description"
-msgstr "Talep/Eylem Açıklaması"
+msgstr "Şikayet/Eylem Açıklaması"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,name:crm_claim.crm_claim_category_claim0
@@ -190,22 +190,22 @@ msgstr "Talep/Eylem Açıklaması"
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_graph
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_pivot
 msgid "Claims"
-msgstr "Talepler"
+msgstr "Şikayetler"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,name:crm_claim.action_report_crm_claim
 msgid "Claims Analysis"
-msgstr "Taleplerin Analizi"
+msgstr "Şikayetlerin Analizi"
 
 #. module: crm_claim
 #: model_terms:ir.actions.act_window,help:crm_claim.crm_claim_categ_action
 msgid "Click to create a claim category."
-msgstr "Talep kategorisi oluşturmak için tıklayın."
+msgstr "Şikayet kategorisi oluşturmak için tıklayın."
 
 #. module: crm_claim
 #: model_terms:ir.actions.act_window,help:crm_claim.crm_claim_stage_act
 msgid "Click to setup a new stage in the processing of the claims."
-msgstr "Taleplerin işlenmesinde yeni bir aşama oluşturmak için tıklayın."
+msgstr "Şikayetlerin işlenmesinde yeni bir aşama oluşturmak için tıklayın."
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__date_closed
@@ -261,11 +261,7 @@ msgid ""
 "Create claim categories to better manage and classify your\n"
 "            claims. Some examples of claims can be: preventive action,\n"
 "            corrective action."
-msgstr ""
-"Taleplerinizi daha iyi yönetmek ve sınıflandırmak için talep kategorileri\n"
-"            oluşturun. Bazı iddia örnekleri şunlar olabilir: önleyici eylem,"
-"\n"
-"            düzeltici eylem."
+msgstr "Şikayetlerinizi daha iyi yönetmek ve sınıflandırmak için şikayet kategorileri\n            oluşturun. Bazı iddia örnekleri şunlar olabilir: önleyici eylem,\n            düzeltici eylem."
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__create_uid
@@ -343,12 +339,12 @@ msgstr "Gelişmiş Filtreler..."
 #. module: crm_claim
 #: model:crm.claim.category,name:crm_claim.categ_claim1
 msgid "Factual Claims"
-msgstr "Gerçek Talepler"
+msgstr "Gerçek Şikayetler"
 
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
 msgid "Follow Up"
-msgstr "Talep Takibi"
+msgstr "Şikayet Takibi"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__message_follower_ids
@@ -381,9 +377,7 @@ msgstr "Bekleyen Mesaj Var"
 msgid ""
 "Have a general overview of all claims processed in the system by sorting "
 "them with specific criteria."
-msgstr ""
-"Sistemde işlenen tüm talepleri belirli kriterlere göre sıralayarak genel bir "
-"bakışa sahip olun."
+msgstr "Sistemde işlenen tüm şikayetleri belirli kriterlere göre sıralayarak genel bir bakışa sahip olun."
 
 #. module: crm_claim
 #: model:ir.model.fields.selection,name:crm_claim.selection__crm_claim__priority__2
@@ -497,7 +491,7 @@ msgstr "Model Referansı"
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_report_crm_claim_filter
 msgid "Month of claim"
-msgstr "Talebin yapıldığı ay"
+msgstr "Şikayetin yapıldığı ay"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__my_activity_date_deadline
@@ -604,7 +598,7 @@ msgstr "Telefon"
 #. module: crm_claim
 #: model:crm.claim.category,name:crm_claim.categ_claim3
 msgid "Policy Claims"
-msgstr "Politika Talepleri"
+msgstr "Politika Şikayetleri"
 
 #. module: crm_claim
 #: model:utm.campaign,title:crm_claim.claim_source2
@@ -630,14 +624,7 @@ msgid ""
 "                Claims may be linked to a sales order or a lot.\n"
 "                You can send emails with attachments and keep the full history for a claim (emails sent, intervention type and so on).\n"
 "                Claims may automatically be linked to an email address using the mail gateway module."
-msgstr ""
-"Müşterilerinizin taleplerini kaydedin ve takip edin.\n"
-"                Talepler bir satış siparişine veya daha fazlasına bağlı "
-"olabilir.\n"
-"                Ekli e-postalar gönderebilir ve bir talebin tam geçmişini ("
-"gönderilen e-postalar, müdahale türü vb.) saklayabilirsiniz.\n"
-"                Talepler, posta ağ geçidi modülü kullanılarak otomatik "
-"olarak bir e-posta adresine bağlanabilir."
+msgstr "Müşterilerinizin şikayetlerini kaydedin ve takip edin.\n                Şikayetler bir satış siparişine veya daha fazlasına bağlı olabilir.\n                Ekli e-postalar gönderebilir ve bir şikayetin tam geçmişini (gönderilen e-postalar, müdahale türü vb.) saklayabilirsiniz.\n                Şikayetler, posta ağ geçidi modülü kullanılarak otomatik olarak bir e-posta adresine bağlanabilir."
 
 #. module: crm_claim
 #: model:crm.claim.stage,name:crm_claim.stage_claim3
@@ -710,7 +697,7 @@ msgstr "Arama"
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Search Claims"
-msgstr "Talep Arama"
+msgstr "Şikayet Arama"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim_stage__sequence
@@ -793,7 +780,7 @@ msgstr "Kayıttaki hata aktivitesi türü."
 #. module: crm_claim
 #: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
 msgid "Unassigned Claims"
-msgstr "Atanmamış Talepler"
+msgstr "Atanmamış Şikayetler"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__write_date
@@ -813,7 +800,7 @@ msgstr "Kullanıcı"
 #. module: crm_claim
 #: model:crm.claim.category,name:crm_claim.categ_claim2
 msgid "Value Claims"
-msgstr "Değer Talepleri"
+msgstr "Değer Şikayetleri"
 
 #. module: crm_claim
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__email_cc
@@ -836,8 +823,4 @@ msgid ""
 "You can create claim stages to categorize the status of every\n"
 "            claim entered in the system. The stages define all the steps\n"
 "            required for the resolution of a claim."
-msgstr ""
-"Sisteme girilen her talebin durumunu kategorize etmek için\n"
-"            talep aşamaları oluşturabilirsiniz. Aşamalar, bir talebin "
-"çözümlenmesi için\n"
-"            gereken tüm adımları tanımlar."
+msgstr "Sisteme girilen her şikayetin durumunu kategorize etmek için\n            şikayet aşamaları oluşturabilirsiniz. Aşamalar, bir şikayetin çözümlenmesi için\n            gereken tüm adımları tanımlar."
